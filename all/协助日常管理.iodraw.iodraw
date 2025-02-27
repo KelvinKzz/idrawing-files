@@ -8,31 +8,31 @@
           <mxGeometry x="520" y="270" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZeiWXzQ9Dtn7UNK9bniW-2" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;需求准入评审&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZeiWXzQ9Dtn7UNK9bniW-3" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;新人培养&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZeiWXzQ9Dtn7UNK9bniW-4" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;技术支持&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZeiWXzQ9Dtn7UNK9bniW-5" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;面试&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZeiWXzQ9Dtn7UNK9bniW-6" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;线上问题跟踪&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZeiWXzQ9Dtn7UNK9bniW-7" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;代码质量管理&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZeiWXzQ9Dtn7UNK9bniW-8" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;配置审核&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZeiWXzQ9Dtn7UNK9bniW-9" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;App&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;;&quot; class=&quot;s1&quot;&gt;发布&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZeiWXzQ9Dtn7UNK9bniW-10" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;技术方案把关&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="414" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
