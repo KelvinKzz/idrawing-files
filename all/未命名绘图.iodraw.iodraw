@@ -10,6 +10,9 @@
         <mxCell id="DPV34GUGwzIxviJFkgqo-3" value="下不了单" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="130" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="DPV34GUGwzIxviJFkgqo-4" value="下不了单" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
