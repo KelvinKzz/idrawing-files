@@ -11,7 +11,7 @@
           <mxGeometry x="110" y="130" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DPV34GUGwzIxviJFkgqo-4" value="怎么取消" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="230" width="120" height="80" as="geometry" />
+          <mxGeometry x="110" y="230" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DPV34GUGwzIxviJFkgqo-5" value="没看见价格" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="320" width="120" height="80" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="270" y="340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DPV34GUGwzIxviJFkgqo-7" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;订单记录在哪&lt;/p&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="80" width="120" height="80" as="geometry" />
+          <mxGeometry x="210" y="80" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
