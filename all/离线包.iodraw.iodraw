@@ -28,7 +28,7 @@
         <mxCell id="Y-xFqGjHkH9tqS_KEJUL-8" value="H5加载慢" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="410" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Y-xFqGjHkH9tqS_KEJUL-9" value="H5加载慢" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y-xFqGjHkH9tqS_KEJUL-9" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;可降级&lt;/p&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="410" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Y-xFqGjHkH9tqS_KEJUL-10" value="H5加载慢" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
