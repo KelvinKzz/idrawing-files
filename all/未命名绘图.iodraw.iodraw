@@ -13,8 +13,8 @@
         <mxCell id="DPV34GUGwzIxviJFkgqo-4" value="怎么取消" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="230" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DPV34GUGwzIxviJFkgqo-5" value="怎么取消" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="240" width="120" height="80" as="geometry" />
+        <mxCell id="DPV34GUGwzIxviJFkgqo-5" value="没看见价格" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="320" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
