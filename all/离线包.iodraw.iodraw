@@ -19,7 +19,7 @@
         <mxCell id="Y-xFqGjHkH9tqS_KEJUL-5" value="更新难" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Y-xFqGjHkH9tqS_KEJUL-6" value="H5加载慢" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y-xFqGjHkH9tqS_KEJUL-6" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;动态下发&lt;/p&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="390" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Y-xFqGjHkH9tqS_KEJUL-7" value="H5加载慢" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -35,7 +35,7 @@
           <mxGeometry x="930" y="414" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Y-xFqGjHkH9tqS_KEJUL-11" value="H5加载慢" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="424" width="120" height="80" as="geometry" />
+          <mxGeometry x="830" y="470" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
