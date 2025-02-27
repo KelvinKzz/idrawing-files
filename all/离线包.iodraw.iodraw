@@ -10,7 +10,7 @@
         <mxCell id="Y-xFqGjHkH9tqS_KEJUL-2" value="H5加载慢" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="170" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Y-xFqGjHkH9tqS_KEJUL-3" value="传统方案包体积大" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y-xFqGjHkH9tqS_KEJUL-3" value="包体积大" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="130" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Y-xFqGjHkH9tqS_KEJUL-4" value="不灵活" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
