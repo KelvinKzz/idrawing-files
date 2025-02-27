@@ -20,7 +20,16 @@
           <mxGeometry x="750" y="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Y-xFqGjHkH9tqS_KEJUL-6" value="H5加载慢" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="200" width="120" height="80" as="geometry" />
+          <mxGeometry x="310" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-xFqGjHkH9tqS_KEJUL-7" value="H5加载慢" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-xFqGjHkH9tqS_KEJUL-8" value="H5加载慢" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-xFqGjHkH9tqS_KEJUL-9" value="H5加载慢" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="450" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
