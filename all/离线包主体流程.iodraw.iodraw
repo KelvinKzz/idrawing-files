@@ -1,6 +1,6 @@
 <mxfile host="www.idrawing.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="5Ge11RfxGKmbGPoNMzBl">
-    <mxGraphModel dx="1912" dy="1015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1912" dy="1842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,16 +11,16 @@
           <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-6" value="自定义View生成器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-7" value="自定义占位组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-8" value="自定义组件录制与回放" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-9" value="注册半屏页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-10" value="监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="190" width="120" height="60" as="geometry" />
