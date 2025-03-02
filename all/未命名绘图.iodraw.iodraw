@@ -8,31 +8,34 @@
           <mxGeometry x="354" y="260" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5rQ1nYHEiltRBhE8tD5n-2" value="去广告" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="240" width="90" height="60" as="geometry" />
+          <mxGeometry x="160" y="240" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5rQ1nYHEiltRBhE8tD5n-3" value="恶意调用" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="270" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5rQ1nYHEiltRBhE8tD5n-4" value="端口攻击" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="320" width="120" height="80" as="geometry" />
+          <mxGeometry x="260" y="340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5rQ1nYHEiltRBhE8tD5n-5" value="端口数据泄漏" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5rQ1nYHEiltRBhE8tD5n-6" value="时间侧信道攻击" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="160" width="130" height="80" as="geometry" />
+          <mxGeometry x="510" y="160" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5rQ1nYHEiltRBhE8tD5n-7" value="代码泄漏" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="535" y="360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5rQ1nYHEiltRBhE8tD5n-8" value="各类平台Key泄漏" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="290" width="150" height="90" as="geometry" />
+          <mxGeometry x="200" y="250" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5rQ1nYHEiltRBhE8tD5n-9" value="资源篡改" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5rQ1nYHEiltRBhE8tD5n-10" value="会话劫持" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5rQ1nYHEiltRBhE8tD5n-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.31;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5rQ1nYHEiltRBhE8tD5n-2" target="5rQ1nYHEiltRBhE8tD5n-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
