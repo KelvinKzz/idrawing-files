@@ -142,8 +142,11 @@
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-56" value="回放模式控制器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-57" value="回放分发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-57" value="进度控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="646" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-58" value="进度控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="656" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
