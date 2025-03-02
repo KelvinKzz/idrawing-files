@@ -41,10 +41,10 @@
           <mxGeometry x="200" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I6crO1lAHK7tVRSo7KMD-14" value="核心防御代码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I6crO1lAHK7tVRSo7KMD-15" value="开关配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I6crO1lAHK7tVRSo7KMD-16" value="核心防御代码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="485" width="120" height="60" as="geometry" />
@@ -53,16 +53,16 @@
           <mxGeometry x="290" y="495" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I6crO1lAHK7tVRSo7KMD-18" value="容错机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I6crO1lAHK7tVRSo7KMD-19" value="生命周期控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I6crO1lAHK7tVRSo7KMD-20" value="动态轮询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I6crO1lAHK7tVRSo7KMD-21" value="JNI交互触发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
