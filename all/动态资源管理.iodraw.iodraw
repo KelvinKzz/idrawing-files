@@ -28,6 +28,12 @@
         <mxCell id="VGm0lN63mJjsi1YFbfDk-9" value="字体资源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="300" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="VGm0lN63mJjsi1YFbfDk-10" value="帧动画" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VGm0lN63mJjsi1YFbfDk-11" value="帧动画" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
