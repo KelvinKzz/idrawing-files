@@ -119,7 +119,7 @@
           <mxGeometry x="760" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-55" value="回放页面管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="276" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-56" value="回放模式控制器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="510.5" width="120" height="60" as="geometry" />
