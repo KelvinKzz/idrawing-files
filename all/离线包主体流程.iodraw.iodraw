@@ -176,6 +176,12 @@
         <mxCell id="ioB442xCoDVJokk4bQJW-52" value="本地存在离线包" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="610" y="546" width="130" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ioB442xCoDVJokk4bQJW-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ioB442xCoDVJokk4bQJW-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="630" as="sourcePoint" />
+            <mxPoint x="540" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
