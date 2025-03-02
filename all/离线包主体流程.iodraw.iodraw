@@ -52,21 +52,6 @@
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-20" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 14px; text-align: left;&quot;&gt;路径管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-22" value="事件录入系统" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="70" y="550" width="190" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-23" value="窗口事件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="620" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-24" value="PopupWindow事件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="620" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-25" value="事件过滤" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="580" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-26" value="事件分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="580" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-27" value="组件录制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="360" width="120" height="60" as="geometry" />
         </mxCell>
@@ -126,6 +111,24 @@
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-43" value="View变化监听" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-44">
           <mxGeometry x="10" y="70" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-45" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="550" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-22" value="事件录入系统" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;verticalAlign=top;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-45">
+          <mxGeometry width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-23" value="窗口事件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-45">
+          <mxGeometry x="100" y="70" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-24" value="PopupWindow事件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-45">
+          <mxGeometry x="10" y="70" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-25" value="事件过滤" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-45">
+          <mxGeometry x="100" y="30" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-26" value="事件分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-45">
+          <mxGeometry x="10" y="30" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
