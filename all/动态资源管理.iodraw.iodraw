@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VGm0lN63mJjsi1YFbfDk-12" value="外部接口" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="110" y="280" width="460" height="110" as="geometry" />
+        </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-8" value="外部接口" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
           <mxGeometry x="110" y="150" width="460" height="110" as="geometry" />
         </mxCell>
@@ -33,9 +36,6 @@
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-11" value="SO资源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="300" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="VGm0lN63mJjsi1YFbfDk-12" value="外部接口" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
-          <mxGeometry x="120" y="160" width="460" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
