@@ -17,7 +17,7 @@
           <mxGeometry x="160" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ioB442xCoDVJokk4bQJW-5" value="拼接离线包参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ioB442xCoDVJokk4bQJW-8" value="匹配Mdap映射表" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="585" y="480" width="130" height="80" as="geometry" />
@@ -52,7 +52,7 @@
             <mxPoint x="380" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ioB442xCoDVJokk4bQJW-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ioB442xCoDVJokk4bQJW-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ioB442xCoDVJokk4bQJW-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="470" as="sourcePoint" />
             <mxPoint x="530" y="440" as="targetPoint" />
