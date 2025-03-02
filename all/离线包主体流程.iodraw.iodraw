@@ -128,10 +128,10 @@
           <mxGeometry x="900" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-58" value="屏幕适配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-59" value="窗口回放" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="581.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-60" value="事件回放" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="361.5" width="120" height="60" as="geometry" />
@@ -170,7 +170,7 @@
           <mxGeometry x="620" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-72" value="事件控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="890" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
