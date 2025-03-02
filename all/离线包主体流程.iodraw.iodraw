@@ -38,7 +38,7 @@
           <mxGeometry x="340" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-27" value="组件录制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="284" width="120" height="256" as="geometry" />
+          <mxGeometry x="480" y="276" width="120" height="424" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-28" value="窗口录制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="561.5" width="120" height="60" as="geometry" />
