@@ -148,8 +148,14 @@
         <mxCell id="ioB442xCoDVJokk4bQJW-47" value="需要下载" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="940" y="450" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ioB442xCoDVJokk4bQJW-48" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ioB442xCoDVJokk4bQJW-48" value="下载" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="945" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ioB442xCoDVJokk4bQJW-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="600" as="sourcePoint" />
+            <mxPoint x="910" y="550" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
