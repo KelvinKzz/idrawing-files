@@ -136,6 +136,9 @@
         <mxCell id="ioB442xCoDVJokk4bQJW-43" value="广告系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="160" y="560" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ioB442xCoDVJokk4bQJW-44" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="464" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
