@@ -7,7 +7,7 @@
         <mxCell id="VGm0lN63mJjsi1YFbfDk-39" value="底层实现" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="610" y="430" width="280" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="VGm0lN63mJjsi1YFbfDk-38" value="Task模块" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="VGm0lN63mJjsi1YFbfDk-38" value="Task模块" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="610" y="290" width="280" height="130" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-26" value="编译插件" style="rounded=1;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -85,16 +85,16 @@
         <mxCell id="VGm0lN63mJjsi1YFbfDk-25" value="系统DynamicPlugin" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="620" y="230" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VGm0lN63mJjsi1YFbfDk-28" value="删除并手机SO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VGm0lN63mJjsi1YFbfDk-28" value="删除并手机SO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="630" y="320" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VGm0lN63mJjsi1YFbfDk-29" value="替换Load So" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VGm0lN63mJjsi1YFbfDk-29" value="替换Load So" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="755" y="320" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VGm0lN63mJjsi1YFbfDk-30" value="压缩任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VGm0lN63mJjsi1YFbfDk-30" value="压缩任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="630" y="370" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VGm0lN63mJjsi1YFbfDk-31" value="生成Java常量文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VGm0lN63mJjsi1YFbfDk-31" value="生成Java常量文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="755" y="370" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-32" value="ASM字节码处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
