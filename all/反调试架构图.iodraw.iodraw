@@ -70,8 +70,8 @@
         <mxCell id="I6crO1lAHK7tVRSo7KMD-23" value="核心防御代码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="505" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I6crO1lAHK7tVRSo7KMD-24" value="核心防御代码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="515" width="120" height="60" as="geometry" />
+        <mxCell id="I6crO1lAHK7tVRSo7KMD-24" value="Root检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I6crO1lAHK7tVRSo7KMD-25" value="Xposed检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="320" width="120" height="60" as="geometry" />
