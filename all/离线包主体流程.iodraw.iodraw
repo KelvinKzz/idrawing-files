@@ -47,7 +47,7 @@
           <mxGeometry x="1000" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-18" value="录制分发器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="414" width="170" height="106" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-19" value="文件写入管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="360" width="120" height="60" as="geometry" />
