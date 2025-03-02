@@ -164,7 +164,7 @@
           <mxGeometry x="480" y="120" width="330" height="130" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-74" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 14px; text-align: left;&quot;&gt;自定义配置&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-73">
-          <mxGeometry x="-88.84615384615384" width="418.8461538461538" height="130" as="geometry" />
+          <mxGeometry width="330" height="130" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-75" value="注册半屏页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-73">
           <mxGeometry x="11.785714285714286" y="30" width="141.42857142857144" height="40" as="geometry" />
