@@ -68,7 +68,7 @@
           <mxGeometry x="770" y="354" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-33" value="文本组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-34" value="图片组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="620" width="120" height="60" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="840" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-37" value="卡片组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-38" value="tab组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="710" width="120" height="60" as="geometry" />
