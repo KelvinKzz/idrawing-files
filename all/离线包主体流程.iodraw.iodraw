@@ -136,7 +136,7 @@
         <mxCell id="ioB442xCoDVJokk4bQJW-43" value="广告系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="160" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ioB442xCoDVJokk4bQJW-44" value="van平台查询离线包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ioB442xCoDVJokk4bQJW-44" value="van平台查询离线包" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="780" y="464" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ioB442xCoDVJokk4bQJW-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ioB442xCoDVJokk4bQJW-32" target="ioB442xCoDVJokk4bQJW-44">
@@ -163,10 +163,13 @@
             <mxPoint x="780" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ioB442xCoDVJokk4bQJW-51" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ioB442xCoDVJokk4bQJW-50">
+        <mxCell id="ioB442xCoDVJokk4bQJW-51" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ioB442xCoDVJokk4bQJW-50">
           <mxGeometry x="-0.0714" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ioB442xCoDVJokk4bQJW-52" value="匹配映射表" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="455" y="630" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
