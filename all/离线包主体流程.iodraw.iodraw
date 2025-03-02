@@ -95,40 +95,40 @@
           <mxGeometry x="40" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-46" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="200" y="360" width="270" height="130" as="geometry" />
+          <mxGeometry x="200" y="360" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-18" value="录制分发器" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-46">
-          <mxGeometry width="270" height="130" as="geometry" />
+          <mxGeometry width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-21" value="窗口观察" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-46">
-          <mxGeometry x="9.642857142857142" y="30" width="115.71428571428572" height="40" as="geometry" />
+          <mxGeometry x="9.285714285714286" y="30" width="111.42857142857144" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-31" value="View录制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-46">
-          <mxGeometry x="144.64285714285714" y="80" width="115.71428571428572" height="40" as="geometry" />
+          <mxGeometry x="139.28571428571428" y="80" width="111.42857142857144" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-42" value="View刷新监听" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-46">
-          <mxGeometry x="144.64285714285714" y="30" width="115.71428571428572" height="40" as="geometry" />
+          <mxGeometry x="139.28571428571428" y="30" width="111.42857142857144" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-43" value="View变化监听" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-46">
-          <mxGeometry x="9.642857142857142" y="80" width="115.71428571428572" height="40" as="geometry" />
+          <mxGeometry x="9.285714285714286" y="80" width="111.42857142857144" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-47" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="200" y="510" width="280" height="130" as="geometry" />
+          <mxGeometry x="200" y="510" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-48" value="事件录入系统" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-47">
-          <mxGeometry width="280" height="130" as="geometry" />
+          <mxGeometry width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-49" value="事件分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-47">
-          <mxGeometry x="10" y="30" width="120" height="40" as="geometry" />
+          <mxGeometry x="9.285714285714286" y="30" width="111.42857142857143" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-50" value="窗口事件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-47">
-          <mxGeometry x="150" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="139.28571428571428" y="80" width="111.42857142857143" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-51" value="事件过滤" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-47">
-          <mxGeometry x="150" y="30" width="120" height="40" as="geometry" />
+          <mxGeometry x="139.28571428571428" y="30" width="111.42857142857143" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-52" value="PopupWindow事件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-47">
-          <mxGeometry x="10" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="9.285714285714286" y="80" width="111.42857142857143" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
