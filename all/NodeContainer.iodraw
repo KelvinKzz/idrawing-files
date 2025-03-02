@@ -11,7 +11,7 @@
           <mxGeometry x="335" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hcWNTCY22MUrgPi1gABM-22" value="NodeController" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="320" y="7.5" width="150" height="285" as="geometry" />
+          <mxGeometry x="320" y="7.5" width="340" height="285" as="geometry" />
         </mxCell>
         <mxCell id="hcWNTCY22MUrgPi1gABM-24" value="Model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="335" y="50" width="120" height="60" as="geometry" />
