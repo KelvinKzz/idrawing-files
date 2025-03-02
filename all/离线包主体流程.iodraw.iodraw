@@ -1,6 +1,6 @@
 <mxfile host="www.idrawing.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="5Ge11RfxGKmbGPoNMzBl">
-    <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1912" dy="1015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,11 +61,17 @@
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-35" value="其他组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="740" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-36" value="进度组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-37" value="卡片组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="740" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-38" value="tab组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-39" value="自定义录制回放组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="1170" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-41" value="录制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="276" width="120" height="60" as="geometry" />
