@@ -103,6 +103,9 @@
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-36" value="进度录制回放组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="620" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-37" value="基础录制回放组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
