@@ -139,13 +139,13 @@
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-49" value="事件分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-47">
           <mxGeometry x="10" y="30" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-50" value="View录制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-47">
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-50" value="窗口事件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-47">
           <mxGeometry x="150" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-51" value="View刷新监听" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-47">
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-51" value="事件过滤" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-47">
           <mxGeometry x="150" y="30" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-52" value="View变化监听" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-47">
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-52" value="PopupWindow事件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-47">
           <mxGeometry x="10" y="80" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
