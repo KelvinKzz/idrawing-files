@@ -76,7 +76,7 @@
         <mxCell id="I6crO1lAHK7tVRSo7KMD-25" value="Xposed检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I6crO1lAHK7tVRSo7KMD-26" value="刷入Boot" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="I6crO1lAHK7tVRSo7KMD-26" value="输入Rom" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
