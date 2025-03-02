@@ -20,10 +20,10 @@
           <mxGeometry x="550" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ioB442xCoDVJokk4bQJW-8" value="匹配Mdap映射表" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="400" width="80" height="80" as="geometry" />
+          <mxGeometry x="360" y="400" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ioB442xCoDVJokk4bQJW-9" value="已经包含离线包参数" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="320" width="80" height="80" as="geometry" />
+          <mxGeometry x="360" y="320" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
