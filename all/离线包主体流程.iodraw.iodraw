@@ -155,7 +155,7 @@
           <mxGeometry x="200" y="726" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-61" value="组件回放" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="726" width="260" height="124" as="geometry" />
+          <mxGeometry x="480" y="726" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-62" value="扫码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="646" width="120" height="60" as="geometry" />
