@@ -193,8 +193,8 @@
             <mxPoint x="1005" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ioB442xCoDVJokk4bQJW-59" value="下载" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="955" y="566" width="120" height="60" as="geometry" />
+        <mxCell id="ioB442xCoDVJokk4bQJW-59" value="App启动" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="945" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
