@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VGm0lN63mJjsi1YFbfDk-39" value="底层实现" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="610" y="450" width="280" height="130" as="geometry" />
+          <mxGeometry x="610" y="430" width="280" height="130" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-38" value="Task模块" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="610" y="290" width="280" height="130" as="geometry" />
@@ -98,16 +98,16 @@
           <mxGeometry x="755" y="370" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-32" value="ASM字节码处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="480" width="110" height="40" as="geometry" />
+          <mxGeometry x="630" y="460" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-33" value="TransformApi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="755" y="480" width="115" height="40" as="geometry" />
+          <mxGeometry x="755" y="460" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-34" value="zip压缩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="755" y="530" width="115" height="40" as="geometry" />
+          <mxGeometry x="755" y="510" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-35" value="javapoet java源文件生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="530" width="110" height="40" as="geometry" />
+          <mxGeometry x="630" y="510" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-41" value="接口隔离" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
           <mxGeometry x="110" y="492.5" width="460" height="60" as="geometry" />
@@ -126,6 +126,9 @@
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VGm0lN63mJjsi1YFbfDk-39" target="VGm0lN63mJjsi1YFbfDk-39">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGm0lN63mJjsi1YFbfDk-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
