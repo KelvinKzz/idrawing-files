@@ -35,16 +35,16 @@
           <mxGeometry x="680" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-14" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 14px; text-align: left;&quot;&gt;文件管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-15" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 14px; text-align: left;&quot;&gt;上传器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-16" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 14px; text-align: left;&quot;&gt;zip&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-16" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 14px; text-align: left;&quot;&gt;zip工具&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-17" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 14px; text-align: left;&quot;&gt;定时清理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
