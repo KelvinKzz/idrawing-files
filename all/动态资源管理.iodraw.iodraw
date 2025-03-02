@@ -85,6 +85,9 @@
         <mxCell id="VGm0lN63mJjsi1YFbfDk-29" value="替换Load So" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="290" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="VGm0lN63mJjsi1YFbfDk-30" value="替换Load So" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="290" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
