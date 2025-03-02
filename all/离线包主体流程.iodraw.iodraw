@@ -67,10 +67,10 @@
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-32" value="基础组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-33" value="文本录制回放组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-33" value="文本组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-34" value="图片录制回放组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-34" value="图片组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-35" value="滚动录制回放组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
