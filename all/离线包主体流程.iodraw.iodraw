@@ -26,7 +26,7 @@
           <mxGeometry x="610" y="190" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ioB442xCoDVJokk4bQJW-9" value="已经包含离线包参数" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="390" y="310" width="130" height="80" as="geometry" />
+          <mxGeometry x="395" y="290" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ioB442xCoDVJokk4bQJW-16" value="客户端webview" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="615" y="310" width="120" height="60" as="geometry" />
