@@ -121,8 +121,8 @@
         <mxCell id="VGm0lN63mJjsi1YFbfDk-44" value="SO资源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="502.5" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VGm0lN63mJjsi1YFbfDk-45" value="SO资源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="512.5" width="80" height="40" as="geometry" />
+        <mxCell id="VGm0lN63mJjsi1YFbfDk-45" value="上报接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="502.5" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
