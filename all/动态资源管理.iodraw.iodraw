@@ -8,16 +8,16 @@
           <mxGeometry x="120" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-2" value="SO加载监听器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-3" value="加载管理器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-4" value="配置信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-5" value="资源实体类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
