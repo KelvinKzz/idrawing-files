@@ -101,43 +101,43 @@
           <mxGeometry x="9.285714285714286" y="80" width="111.42857142857143" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-53" value="回放" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1089" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="1069" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-54" value="文件解析器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-55" value="回放页面管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="780" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-56" value="回放模式控制器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-57" value="进度控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-58" value="屏幕适配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-59" value="窗口回放" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="780" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-60" value="事件回放" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-61" value="组件回放" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="580" width="400" height="60" as="geometry" />
+          <mxGeometry x="640" y="580" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-62" value="扫码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="780" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-63" value="下载管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-64" value="文件校验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="780" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-65" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="800" y="120" width="280" height="130" as="geometry" />
+          <mxGeometry x="779" y="120" width="280" height="130" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-66" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 14px; text-align: left;&quot;&gt;文件管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-65">
           <mxGeometry width="280" height="130" as="geometry" />
@@ -155,10 +155,10 @@
           <mxGeometry x="10.000000000000002" y="80" width="120.00000000000001" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-71" value="错误拦截" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-72" value="事件控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-73" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="480" y="120" width="280" height="130" as="geometry" />
