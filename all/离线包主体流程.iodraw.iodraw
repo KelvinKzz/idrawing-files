@@ -114,7 +114,7 @@
             <mxPoint x="1000" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ioB442xCoDVJokk4bQJW-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ioB442xCoDVJokk4bQJW-38" value="Mdap映射表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
