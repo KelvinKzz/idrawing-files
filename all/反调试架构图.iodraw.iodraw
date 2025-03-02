@@ -37,8 +37,8 @@
         <mxCell id="I6crO1lAHK7tVRSo7KMD-12" value="IDA调试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I6crO1lAHK7tVRSo7KMD-13" value="IDA调试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="I6crO1lAHK7tVRSo7KMD-13" value="安装、启动64位IDA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
