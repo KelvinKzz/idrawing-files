@@ -168,7 +168,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ioB442xCoDVJokk4bQJW-52" value="匹配映射表" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="ioB442xCoDVJokk4bQJW-52" value="本地存在离线包" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="455" y="630" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
