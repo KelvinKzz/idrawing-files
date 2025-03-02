@@ -145,7 +145,7 @@
             <mxPoint x="1050" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-18" value="录制分发器" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-18" value="录制分发器" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="200" y="290" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-21" value="窗口观察" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -153,9 +153,6 @@
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-31" value="View录制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="339.2857142857143" y="370" width="111.42857142857144" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8nqcnaHC67J-ueHjrJ9Q-42" target="8nqcnaHC67J-ueHjrJ9Q-10">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-42" value="View刷新监听" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="339.2857142857143" y="320" width="111.42857142857144" height="40" as="geometry" />
