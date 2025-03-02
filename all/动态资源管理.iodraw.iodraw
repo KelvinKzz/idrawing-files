@@ -118,7 +118,7 @@
         <mxCell id="VGm0lN63mJjsi1YFbfDk-43" value="帧动画" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="502.5" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VGm0lN63mJjsi1YFbfDk-44" value="SO资源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VGm0lN63mJjsi1YFbfDk-44" value="解压策略接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="502.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-45" value="上报接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
