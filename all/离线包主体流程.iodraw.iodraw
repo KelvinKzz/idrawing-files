@@ -130,8 +130,8 @@
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-52" value="PopupWindow事件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-47">
           <mxGeometry x="9.285714285714286" y="80" width="111.42857142857143" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-53" value="录制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-53" value="回放" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
