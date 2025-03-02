@@ -100,7 +100,7 @@
           <mxGeometry x="555" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ioB442xCoDVJokk4bQJW-35" value="离线包加载" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="565" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
