@@ -8,7 +8,7 @@
           <mxGeometry x="110" y="370" width="460" height="110" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-12" value="资源加载器" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
-          <mxGeometry x="110" y="290" width="460" height="60" as="geometry" />
+          <mxGeometry x="110" y="280" width="460" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-8" value="外部接口" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
           <mxGeometry x="110" y="150" width="460" height="110" as="geometry" />
@@ -32,13 +32,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-9" value="字体资源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="300" width="120" height="40" as="geometry" />
+          <mxGeometry x="120" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-10" value="帧动画" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="300" width="120" height="40" as="geometry" />
+          <mxGeometry x="250" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-11" value="SO资源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="300" width="120" height="40" as="geometry" />
+          <mxGeometry x="380" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-14" value="检查版本状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="380" width="90" height="40" as="geometry" />
