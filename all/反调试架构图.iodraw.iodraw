@@ -49,7 +49,7 @@
         <mxCell id="I6crO1lAHK7tVRSo7KMD-16" value="核心防御代码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="485" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I6crO1lAHK7tVRSo7KMD-17" value="核心防御代码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="I6crO1lAHK7tVRSo7KMD-17" value="Frida检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I6crO1lAHK7tVRSo7KMD-18" value="容错机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -63,6 +63,12 @@
         </mxCell>
         <mxCell id="I6crO1lAHK7tVRSo7KMD-21" value="JNI交互触发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I6crO1lAHK7tVRSo7KMD-22" value="核心防御代码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="495" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I6crO1lAHK7tVRSo7KMD-23" value="核心防御代码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="505" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
