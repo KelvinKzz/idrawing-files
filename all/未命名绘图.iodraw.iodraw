@@ -11,7 +11,7 @@
           <mxGeometry x="310" y="210" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5rQ1nYHEiltRBhE8tD5n-3" value="恶意调用" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="250" width="120" height="80" as="geometry" />
+          <mxGeometry x="520" y="290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5rQ1nYHEiltRBhE8tD5n-4" value="端口攻击" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="340" width="120" height="80" as="geometry" />
@@ -20,16 +20,16 @@
           <mxGeometry x="380" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5rQ1nYHEiltRBhE8tD5n-6" value="时间侧信道攻击" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="210" width="130" height="80" as="geometry" />
+          <mxGeometry x="530" y="160" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5rQ1nYHEiltRBhE8tD5n-7" value="代码泄漏" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5rQ1nYHEiltRBhE8tD5n-8" value="各类平台Key泄漏" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="290" width="150" height="90" as="geometry" />
+          <mxGeometry x="40" y="290" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5rQ1nYHEiltRBhE8tD5n-9" value="资源篡改" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="140" width="120" height="80" as="geometry" />
+          <mxGeometry x="230" y="150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5rQ1nYHEiltRBhE8tD5n-10" value="会话劫持" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="350" width="120" height="80" as="geometry" />
