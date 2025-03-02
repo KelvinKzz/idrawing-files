@@ -64,7 +64,7 @@
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-41" value="录制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="70" y="290" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-46" value="" style="group;fillColor=#dae8fc;strokeColor=default;" vertex="1" connectable="0" parent="1">
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-46" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="200" y="290" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-18" value="录制分发器" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-46">
@@ -82,7 +82,7 @@
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-43" value="View变化监听" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-46">
           <mxGeometry x="9.285714285714286" y="80" width="111.42857142857144" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-47" value="" style="group;fillColor=#dae8fc;strokeColor=default;" vertex="1" connectable="0" parent="1">
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-47" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="200" y="427.5" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-48" value="事件录入系统" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-47">
