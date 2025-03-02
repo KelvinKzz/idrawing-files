@@ -79,7 +79,7 @@
         <mxCell id="VGm0lN63mJjsi1YFbfDk-25" value="系统DynamicPlugin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="210" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VGm0lN63mJjsi1YFbfDk-28" value="模块使用常量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VGm0lN63mJjsi1YFbfDk-28" value="删除并手机SO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="290" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
