@@ -23,7 +23,10 @@
           <mxGeometry x="585" y="480" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ioB442xCoDVJokk4bQJW-9" value="已经包含离线包参数" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="310" width="130" height="80" as="geometry" />
+          <mxGeometry x="580" y="190" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ioB442xCoDVJokk4bQJW-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
