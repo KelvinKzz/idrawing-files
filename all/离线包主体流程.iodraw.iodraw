@@ -116,7 +116,7 @@
           <mxGeometry x="1199" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-54" value="文件解析器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-55" value="回放页面管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="290" width="120" height="60" as="geometry" />
@@ -146,7 +146,7 @@
           <mxGeometry x="900" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-64" value="文件校验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-65" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="760" y="120" width="260" height="130" as="geometry" />
@@ -166,8 +166,8 @@
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-70" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 14px; text-align: left;&quot;&gt;zip工具&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-65">
           <mxGeometry x="9.285714285714286" y="80" width="111.42857142857144" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-71" value="x" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-71" value="错误拦截" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-72" value="事件控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="520" width="120" height="60" as="geometry" />
