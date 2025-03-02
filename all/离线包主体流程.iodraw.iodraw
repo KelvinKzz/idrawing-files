@@ -73,7 +73,7 @@
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-26" value="事件分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-27" value="组件录入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-27" value="组件录制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
