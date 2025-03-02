@@ -20,7 +20,7 @@
           <mxGeometry x="480" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I6crO1lAHK7tVRSo7KMD-8" value="IDA调试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="150" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I6crO1lAHK7tVRSo7KMD-9" value="&lt;div data-okr=&quot;%7B%22okrDelta%22%3A%5B%7B%22lineType%22%3A%22text%22%2C%22lineOptions%22%3A%7B%7D%2C%22lineContent%22%3A%5B%7B%22opType%22%3A%22text%22%2C%22options%22%3A%7B%22text%22%3A%22attach%22%7D%7D%5D%7D%5D%2C%22businessKey%22%3A%22lark-doc%22%7D&quot; class=&quot;okr-block-clipboard lark-doc&quot;&gt;&lt;/div&gt;&lt;div style=&quot;white-space: pre;&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;Attach单步调试&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="150" width="120" height="60" as="geometry" />
@@ -38,13 +38,13 @@
           <mxGeometry x="340" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I6crO1lAHK7tVRSo7KMD-14" value="核心防御代码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="230" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I6crO1lAHK7tVRSo7KMD-15" value="开关配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I6crO1lAHK7tVRSo7KMD-16" value="反爬检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="310" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I6crO1lAHK7tVRSo7KMD-17" value="Frida检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="310" width="120" height="60" as="geometry" />
