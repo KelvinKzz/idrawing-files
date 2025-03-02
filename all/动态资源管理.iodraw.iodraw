@@ -113,7 +113,7 @@
           <mxGeometry x="110" y="492.5" width="460" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-42" value="字体资源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="502.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="120" y="502.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-43" value="帧动画" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="502.5" width="120" height="40" as="geometry" />
