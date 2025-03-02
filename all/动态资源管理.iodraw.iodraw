@@ -80,16 +80,16 @@
           <mxGeometry x="620" y="230" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-28" value="删除并手机SO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="290" width="80" height="40" as="geometry" />
+          <mxGeometry x="665" y="310" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-29" value="替换Load So" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="290" width="80" height="40" as="geometry" />
+          <mxGeometry x="755" y="310" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-30" value="压缩任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="290" width="80" height="40" as="geometry" />
+          <mxGeometry x="665" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-31" value="生成Java常量文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="290" width="80" height="40" as="geometry" />
+          <mxGeometry x="755" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-32" value="ASM字节码处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="490" width="80" height="40" as="geometry" />
