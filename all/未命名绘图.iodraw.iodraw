@@ -16,6 +16,9 @@
         <mxCell id="5rQ1nYHEiltRBhE8tD5n-4" value="端口攻击" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="340" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="5rQ1nYHEiltRBhE8tD5n-5" value="恶意调用" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
