@@ -101,10 +101,10 @@
           <mxGeometry x="620" y="490" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-33" value="TransformApi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="490" width="80" height="40" as="geometry" />
+          <mxGeometry x="755" y="490" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-34" value="zip压缩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="535" width="80" height="40" as="geometry" />
+          <mxGeometry x="755" y="535" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-35" value="javapoet java源文件生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="535" width="80" height="40" as="geometry" />
