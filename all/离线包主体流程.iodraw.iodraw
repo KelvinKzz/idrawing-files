@@ -20,7 +20,7 @@
           <mxGeometry x="620" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-9" value="注册半屏页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-10" value="监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="190" width="120" height="60" as="geometry" />
