@@ -22,6 +22,9 @@
         <mxCell id="I6crO1lAHK7tVRSo7KMD-7" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.8); font-family: Arial, Helvetica, sans-serif; font-size: 18px; text-align: left; background-color: rgb(242, 250, 230);&quot;&gt;安装Magisk&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="70" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="I6crO1lAHK7tVRSo7KMD-8" value="手机Root" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
