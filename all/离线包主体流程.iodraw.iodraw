@@ -125,7 +125,7 @@
           <mxGeometry x="350" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-43" value="View变化监听" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="440" width="120" height="35" as="geometry" />
+          <mxGeometry x="210" y="440" width="137.14" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
