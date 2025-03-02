@@ -10,7 +10,7 @@
         <mxCell id="I6crO1lAHK7tVRSo7KMD-2" value="解锁BL" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I6crO1lAHK7tVRSo7KMD-4" value="刷入手机中" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="I6crO1lAHK7tVRSo7KMD-4" value="刷入Boot" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I6crO1lAHK7tVRSo7KMD-5" value="修改boot.img" style="whiteSpace=wrap;html=1;rounded=1;fontSize=17;" vertex="1" parent="1">
