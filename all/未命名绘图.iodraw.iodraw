@@ -34,7 +34,7 @@
         <mxCell id="5rQ1nYHEiltRBhE8tD5n-10" value="会话劫持" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="360" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5rQ1nYHEiltRBhE8tD5n-13" value="会话劫持" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5rQ1nYHEiltRBhE8tD5n-13" value="跨进程调试污染" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="370" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
