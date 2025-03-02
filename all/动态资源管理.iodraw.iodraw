@@ -50,10 +50,10 @@
           <mxGeometry x="420" y="380" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-18" value="校验Zip状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="430" width="80" height="40" as="geometry" />
+          <mxGeometry x="120" y="430" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-19" value="状态管理模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="430" width="260" height="40" as="geometry" />
+          <mxGeometry x="220" y="430" width="280" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
