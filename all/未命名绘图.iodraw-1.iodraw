@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ioB442xCoDVJokk4bQJW-10" value="原始Url" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="140" y="190" width="160" height="320" as="geometry" />
+        </mxCell>
         <mxCell id="ioB442xCoDVJokk4bQJW-1" value="客户端代码设置url" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="220" width="120" height="60" as="geometry" />
         </mxCell>
@@ -24,9 +27,6 @@
         </mxCell>
         <mxCell id="ioB442xCoDVJokk4bQJW-9" value="已经包含离线包参数" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="310" width="130" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ioB442xCoDVJokk4bQJW-10" value="原始Url" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ioB442xCoDVJokk4bQJW-16" value="客户端webview" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="440" width="120" height="60" as="geometry" />
