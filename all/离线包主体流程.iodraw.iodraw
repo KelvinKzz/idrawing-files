@@ -131,13 +131,16 @@
           <mxGeometry x="9.285714285714286" y="80" width="111.42857142857143" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-53" value="回放" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="566" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-54" value="文件解析器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="566" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-55" value="回放页面管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="566" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-56" value="回放页面管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
