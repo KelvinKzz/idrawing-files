@@ -65,10 +65,10 @@
           <mxGeometry x="360" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-24" value="PopupWindow事件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-25" value="事件过滤" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-26" value="事件分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="450" width="120" height="60" as="geometry" />
