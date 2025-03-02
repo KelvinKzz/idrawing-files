@@ -8,7 +8,7 @@
           <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-5" value="SDK启动管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="120" width="100" height="60" as="geometry" />
+          <mxGeometry x="70" y="120" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-10" value="监控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="190" width="120" height="60" as="geometry" />
@@ -101,7 +101,7 @@
           <mxGeometry x="9.285714285714286" y="80" width="111.42857142857143" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-53" value="回放" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1069" y="290" width="60" height="60" as="geometry" />
+          <mxGeometry x="1080" y="290" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-54" value="文件解析器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="430" width="120" height="60" as="geometry" />
