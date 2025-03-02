@@ -86,7 +86,7 @@
           <mxGeometry x="690" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-31" value="View录制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-32" value="基础录制回放组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="620" width="120" height="60" as="geometry" />
@@ -119,10 +119,10 @@
           <mxGeometry x="40" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-42" value="View刷新监听" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="440" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-43" value="View变化监听" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="480" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
