@@ -125,16 +125,16 @@
           <mxGeometry x="1050" y="285.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-57" value="进度控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="361.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="361.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-58" value="屏幕适配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="361.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="361.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-59" value="窗口回放" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="441.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="441.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-60" value="事件回放" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="441.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="441.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-61" value="组件回放" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="276" width="120" height="424" as="geometry" />
