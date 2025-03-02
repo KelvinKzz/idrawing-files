@@ -163,6 +163,24 @@
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-64" value="文件校验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="646" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-65" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="760" y="120" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-66" value="录制分发器" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-65">
+          <mxGeometry width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-67" value="窗口观察" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-65">
+          <mxGeometry x="9.285714285714286" y="30" width="111.42857142857144" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-68" value="View录制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-65">
+          <mxGeometry x="139.28571428571428" y="80" width="111.42857142857144" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-69" value="View刷新监听" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-65">
+          <mxGeometry x="139.28571428571428" y="30" width="111.42857142857144" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-70" value="View变化监听" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-65">
+          <mxGeometry x="9.285714285714286" y="80" width="111.42857142857144" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
