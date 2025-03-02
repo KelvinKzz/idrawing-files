@@ -153,9 +153,6 @@
         <mxCell id="ioB442xCoDVJokk4bQJW-47" value="需要下载" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="940" y="430" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ioB442xCoDVJokk4bQJW-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ioB442xCoDVJokk4bQJW-48" target="ioB442xCoDVJokk4bQJW-47">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ioB442xCoDVJokk4bQJW-48" value="下载" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="945" y="556" width="120" height="60" as="geometry" />
         </mxCell>
@@ -163,17 +160,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="870" y="546" as="sourcePoint" />
             <mxPoint x="910" y="526" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ioB442xCoDVJokk4bQJW-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ioB442xCoDVJokk4bQJW-47" target="ioB442xCoDVJokk4bQJW-48">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="586" as="sourcePoint" />
-            <mxPoint x="780" y="536" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ioB442xCoDVJokk4bQJW-51" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ioB442xCoDVJokk4bQJW-50">
-          <mxGeometry x="-0.0714" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ioB442xCoDVJokk4bQJW-52" value="本地存在离线包" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -199,6 +185,12 @@
         <mxCell id="ioB442xCoDVJokk4bQJW-56" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ioB442xCoDVJokk4bQJW-55">
           <mxGeometry x="-0.05" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ioB442xCoDVJokk4bQJW-58" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="750" as="sourcePoint" />
+            <mxPoint x="960" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
