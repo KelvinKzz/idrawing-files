@@ -14,7 +14,7 @@
           <mxGeometry x="600" y="260" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5rQ1nYHEiltRBhE8tD5n-4" value="调试接口" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="340" width="120" height="80" as="geometry" />
+          <mxGeometry x="240" y="340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5rQ1nYHEiltRBhE8tD5n-5" value="端口数据泄漏" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="130" width="120" height="80" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="110" y="240" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5rQ1nYHEiltRBhE8tD5n-9" value="资源篡改" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="150" width="120" height="80" as="geometry" />
+          <mxGeometry x="125" y="150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5rQ1nYHEiltRBhE8tD5n-10" value="会话劫持" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="360" width="120" height="80" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="620" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5rQ1nYHEiltRBhE8tD5n-14" value="执行恶意代码" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="370" width="120" height="80" as="geometry" />
+          <mxGeometry x="250" y="240" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
