@@ -13,10 +13,10 @@
         <mxCell id="VGm0lN63mJjsi1YFbfDk-26" value="编译插件" style="rounded=1;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="610" y="150" width="280" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="VGm0lN63mJjsi1YFbfDk-20" value="加载流程" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+        <mxCell id="VGm0lN63mJjsi1YFbfDk-20" value="加载流程" style="rounded=1;whiteSpace=wrap;html=1;align=right;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="360" width="460" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="VGm0lN63mJjsi1YFbfDk-12" value="资源加载器" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+        <mxCell id="VGm0lN63mJjsi1YFbfDk-12" value="资源加载器" style="rounded=1;whiteSpace=wrap;html=1;align=right;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="110" y="280" width="460" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-8" value="外部接口" style="rounded=1;whiteSpace=wrap;html=1;align=right;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
