@@ -40,22 +40,22 @@
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-32" value="基础组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-33" value="文本组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-33" value="文本组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="210" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-34" value="图片组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-34" value="图片组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="490" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-35" value="其他组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-35" value="其他组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="630" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-36" value="进度组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-36" value="进度组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="780" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-37" value="卡片组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-37" value="卡片组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="350" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-38" value="tab组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-38" value="tab组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="919" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-39" value="自定义录制回放组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
