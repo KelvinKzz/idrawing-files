@@ -172,6 +172,24 @@
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-72" value="事件控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="500" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-73" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="480" y="120" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-74" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 14px; text-align: left;&quot;&gt;自定义配置&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-73">
+          <mxGeometry width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-75" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 14px; text-align: left;&quot;&gt;路径管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-73">
+          <mxGeometry x="9.285714285714286" y="30" width="111.42857142857144" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-76" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 14px; text-align: left;&quot;&gt;定时清理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-73">
+          <mxGeometry x="139.28571428571428" y="80" width="111.42857142857144" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-77" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 14px; text-align: left;&quot;&gt;上传器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-73">
+          <mxGeometry x="139.28571428571428" y="30" width="111.42857142857144" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8nqcnaHC67J-ueHjrJ9Q-78" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 14px; text-align: left;&quot;&gt;zip工具&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8nqcnaHC67J-ueHjrJ9Q-73">
+          <mxGeometry x="9.285714285714286" y="80" width="111.42857142857144" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
