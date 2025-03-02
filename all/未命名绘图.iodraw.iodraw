@@ -19,7 +19,7 @@
         <mxCell id="5rQ1nYHEiltRBhE8tD5n-5" value="数据泄漏" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="160" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5rQ1nYHEiltRBhE8tD5n-6" value="破解版" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5rQ1nYHEiltRBhE8tD5n-6" value="时间侧信道攻击" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5rQ1nYHEiltRBhE8tD5n-7" value="代码泄漏" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
