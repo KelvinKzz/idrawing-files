@@ -19,6 +19,9 @@
         <mxCell id="ioB442xCoDVJokk4bQJW-5" value="拼接离线包参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ioB442xCoDVJokk4bQJW-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
