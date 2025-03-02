@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VGm0lN63mJjsi1YFbfDk-20" value="加载流程" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="110" y="370" width="460" height="110" as="geometry" />
+        </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-12" value="资源加载器" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
           <mxGeometry x="110" y="290" width="460" height="60" as="geometry" />
         </mxCell>
@@ -54,9 +57,6 @@
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-19" value="状态管理模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="430" width="280" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="VGm0lN63mJjsi1YFbfDk-20" value="加载流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="370" width="460" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
