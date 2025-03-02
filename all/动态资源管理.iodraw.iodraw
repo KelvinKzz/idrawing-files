@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VGm0lN63mJjsi1YFbfDk-26" value="编译插件" style="rounded=1;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="610" y="130" width="280" height="130" as="geometry" />
+          <mxGeometry x="610" y="150" width="280" height="130" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-20" value="加载流程" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
           <mxGeometry x="110" y="360" width="460" height="110" as="geometry" />
@@ -68,16 +68,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-22" value="模块使用常量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="160" width="80" height="40" as="geometry" />
+          <mxGeometry x="620" y="180" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-23" value="配置文件读取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="160" width="80" height="40" as="geometry" />
+          <mxGeometry x="710" y="180" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-24" value="dynamic_plugin文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="160" width="80" height="40" as="geometry" />
+          <mxGeometry x="800" y="180" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-25" value="系统DynamicPlugin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="210" width="260" height="40" as="geometry" />
+          <mxGeometry x="620" y="230" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-28" value="删除并手机SO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="290" width="80" height="40" as="geometry" />
@@ -92,16 +92,16 @@
           <mxGeometry x="890" y="290" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-32" value="ASM字节码处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="380" width="80" height="40" as="geometry" />
+          <mxGeometry x="620" y="490" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-33" value="TransformApi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="380" width="80" height="40" as="geometry" />
+          <mxGeometry x="710" y="490" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-34" value="zip压缩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="380" width="80" height="40" as="geometry" />
+          <mxGeometry x="800" y="490" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VGm0lN63mJjsi1YFbfDk-35" value="javapoet java源文件生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="380" width="80" height="40" as="geometry" />
+          <mxGeometry x="890" y="490" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
