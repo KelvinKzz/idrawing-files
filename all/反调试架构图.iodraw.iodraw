@@ -29,10 +29,10 @@
           <mxGeometry x="70" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I6crO1lAHK7tVRSo7KMD-10" value="IDA调试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I6crO1lAHK7tVRSo7KMD-11" value="IDA调试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I6crO1lAHK7tVRSo7KMD-12" value="刷入&lt;div&gt;&lt;span style=&quot;white-space: pre; background-color: initial;&quot;&gt;android_server64&lt;/span&gt;&lt;div data-okr=&quot;%7B%22okrDelta%22%3A%5B%7B%22lineType%22%3A%22text%22%2C%22lineOptions%22%3A%7B%7D%2C%22lineContent%22%3A%5B%7B%22opType%22%3A%22text%22%2C%22options%22%3A%7B%22text%22%3A%22android_server64%22%7D%7D%5D%7D%5D%2C%22businessKey%22%3A%22lark-doc%22%7D&quot; class=&quot;okr-block-clipboard lark-doc&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="150" width="120" height="60" as="geometry" />
