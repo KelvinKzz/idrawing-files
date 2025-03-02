@@ -77,13 +77,13 @@
           <mxGeometry x="200" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-28" value="窗口录制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-29" value="窗口过滤" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-30" value="组件遍历器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqcnaHC67J-ueHjrJ9Q-31" value="View录制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="620" width="120" height="60" as="geometry" />
