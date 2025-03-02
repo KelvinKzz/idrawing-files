@@ -97,7 +97,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ioB442xCoDVJokk4bQJW-34" value="离线包加载" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="615" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ioB442xCoDVJokk4bQJW-35" value="线上H5加载" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="400" y="464" width="120" height="60" as="geometry" />
@@ -169,7 +169,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ioB442xCoDVJokk4bQJW-52" value="本地存在离线包" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="455" y="630" width="130" height="80" as="geometry" />
+          <mxGeometry x="610" y="570" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
