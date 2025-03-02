@@ -22,8 +22,8 @@
         <mxCell id="5rQ1nYHEiltRBhE8tD5n-6" value="破解版" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="210" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5rQ1nYHEiltRBhE8tD5n-7" value="窃取数据" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="170" width="120" height="80" as="geometry" />
+        <mxCell id="5rQ1nYHEiltRBhE8tD5n-7" value="代码泄漏" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="340" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
