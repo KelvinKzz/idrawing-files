@@ -7,10 +7,10 @@
         <mxCell id="viqmGSJeoR9UhdCsCi0D-43" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="500" width="720" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="viqmGSJeoR9UhdCsCi0D-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="viqmGSJeoR9UhdCsCi0D-41" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="180" y="250" width="720" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="viqmGSJeoR9UhdCsCi0D-40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="viqmGSJeoR9UhdCsCi0D-40" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="180" y="150" width="720" height="80" as="geometry" />
         </mxCell>
         <mxCell id="viqmGSJeoR9UhdCsCi0D-28" value="触发器" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
