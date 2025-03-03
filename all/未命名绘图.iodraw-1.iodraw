@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="viqmGSJeoR9UhdCsCi0D-28" value="触发器" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="200" y="460" width="200" height="140" as="geometry" />
+        </mxCell>
         <mxCell id="viqmGSJeoR9UhdCsCi0D-1" value="日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="160" width="120" height="60" as="geometry" />
         </mxCell>
@@ -112,19 +115,16 @@
           <mxGeometry x="100" y="460" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="viqmGSJeoR9UhdCsCi0D-24" value="微信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="550" width="80" height="40" as="geometry" />
+          <mxGeometry x="215" y="500" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="viqmGSJeoR9UhdCsCi0D-25" value="支付宝" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="550" width="80" height="40" as="geometry" />
+          <mxGeometry x="305" y="500" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="viqmGSJeoR9UhdCsCi0D-26" value="银联" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="600" width="80" height="40" as="geometry" />
+          <mxGeometry x="305" y="550" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="viqmGSJeoR9UhdCsCi0D-27" value="余额" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="600" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="viqmGSJeoR9UhdCsCi0D-28" value="触发器" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="200" y="460" width="200" height="140" as="geometry" />
+          <mxGeometry x="215" y="550" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="viqmGSJeoR9UhdCsCi0D-29" value="前后台管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="540" width="180" height="60" as="geometry" />
