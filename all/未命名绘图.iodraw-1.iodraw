@@ -35,9 +35,9 @@
           <mxGeometry x="360" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="viqmGSJeoR9UhdCsCi0D-11" value="子组件model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="viqmGSJeoR9UhdCsCi0D-12" value="结果页Vm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="viqmGSJeoR9UhdCsCi0D-12" value="子组件vm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="viqmGSJeoR9UhdCsCi0D-13" value="子组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
