@@ -35,12 +35,12 @@
           <mxGeometry x="520" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="viqmGSJeoR9UhdCsCi0D-11" value="结果页View" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="viqmGSJeoR9UhdCsCi0D-12" value="结果页Vm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="viqmGSJeoR9UhdCsCi0D-13" value="收银台Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="viqmGSJeoR9UhdCsCi0D-13" value="结果页Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
