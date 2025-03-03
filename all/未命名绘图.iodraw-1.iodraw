@@ -16,19 +16,19 @@
         <mxCell id="viqmGSJeoR9UhdCsCi0D-28" value="触发器" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="200" y="510" width="260" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="viqmGSJeoR9UhdCsCi0D-1" value="日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="viqmGSJeoR9UhdCsCi0D-1" value="日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="200" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="viqmGSJeoR9UhdCsCi0D-2" value="埋点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="viqmGSJeoR9UhdCsCi0D-2" value="埋点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="340" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="viqmGSJeoR9UhdCsCi0D-3" value="请求头" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="viqmGSJeoR9UhdCsCi0D-3" value="请求头" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="480" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="viqmGSJeoR9UhdCsCi0D-4" value="事件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="viqmGSJeoR9UhdCsCi0D-4" value="事件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="620" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="viqmGSJeoR9UhdCsCi0D-5" value="H5路由" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="viqmGSJeoR9UhdCsCi0D-5" value="H5路由" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="760" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="viqmGSJeoR9UhdCsCi0D-6" value="门面入口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
