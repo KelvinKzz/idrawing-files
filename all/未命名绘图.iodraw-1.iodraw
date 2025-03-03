@@ -31,8 +31,8 @@
         <mxCell id="viqmGSJeoR9UhdCsCi0D-9" value="收银台Vm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="viqmGSJeoR9UhdCsCi0D-10" value="收银台Vm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="viqmGSJeoR9UhdCsCi0D-10" value="收银台Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
