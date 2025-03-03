@@ -124,7 +124,7 @@
           <mxGeometry x="215" y="550" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="viqmGSJeoR9UhdCsCi0D-25" value="支付宝" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="550" width="110" height="40" as="geometry" />
+          <mxGeometry x="340" y="550" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="viqmGSJeoR9UhdCsCi0D-26" value="银联" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="600" width="110" height="40" as="geometry" />
