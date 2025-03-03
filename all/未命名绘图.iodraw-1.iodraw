@@ -106,8 +106,11 @@
         <mxCell id="viqmGSJeoR9UhdCsCi0D-28" value="触发器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="540" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="viqmGSJeoR9UhdCsCi0D-29" value="触发器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="viqmGSJeoR9UhdCsCi0D-29" value="前后台管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="540" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="viqmGSJeoR9UhdCsCi0D-30" value="前后台管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="540" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
