@@ -73,8 +73,11 @@
         <mxCell id="PVar2v10DYVukSS8gwbv-25" value="代码保护" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PVar2v10DYVukSS8gwbv-26" value="代码保护" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PVar2v10DYVukSS8gwbv-26" value="禁用硬件加速" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PVar2v10DYVukSS8gwbv-27" value="禁用硬件加速" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
