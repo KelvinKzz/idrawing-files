@@ -46,8 +46,11 @@
         <mxCell id="PVar2v10DYVukSS8gwbv-15" value="城市" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PVar2v10DYVukSS8gwbv-17" value="日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="PVar2v10DYVukSS8gwbv-17" value="规律总结" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PVar2v10DYVukSS8gwbv-18" value="机型信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
