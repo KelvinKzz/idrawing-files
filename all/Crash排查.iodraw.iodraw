@@ -49,46 +49,46 @@
         <mxCell id="PVar2v10DYVukSS8gwbv-17" value="规律总结" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="150" y="470" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PVar2v10DYVukSS8gwbv-18" value="特定机型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PVar2v10DYVukSS8gwbv-18" value="特定机型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="240" y="470" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PVar2v10DYVukSS8gwbv-19" value="特定系统版本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PVar2v10DYVukSS8gwbv-19" value="特定系统版本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="324" y="470" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PVar2v10DYVukSS8gwbv-20" value="特定业务场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PVar2v10DYVukSS8gwbv-20" value="特定业务场景" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="408" y="470" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PVar2v10DYVukSS8gwbv-21" value="特定线程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PVar2v10DYVukSS8gwbv-21" value="特定线程" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="492" y="470" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PVar2v10DYVukSS8gwbv-22" value="特定页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PVar2v10DYVukSS8gwbv-22" value="特定页面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="576" y="470" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PVar2v10DYVukSS8gwbv-23" value="相同的Crash日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PVar2v10DYVukSS8gwbv-23" value="相同的Crash日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="660" y="470" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVar2v10DYVukSS8gwbv-24" value="解决方案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="150" y="560" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PVar2v10DYVukSS8gwbv-25" value="代码保护" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PVar2v10DYVukSS8gwbv-25" value="代码保护" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="240" y="560" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PVar2v10DYVukSS8gwbv-26" value="禁用硬件加速" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PVar2v10DYVukSS8gwbv-26" value="禁用硬件加速" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="310" y="560" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PVar2v10DYVukSS8gwbv-27" value="插桩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PVar2v10DYVukSS8gwbv-27" value="插桩" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="380" y="560" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PVar2v10DYVukSS8gwbv-28" value="hook" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PVar2v10DYVukSS8gwbv-28" value="hook" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="450" y="560" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PVar2v10DYVukSS8gwbv-29" value="逻辑绕过" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PVar2v10DYVukSS8gwbv-29" value="逻辑绕过" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="520" y="560" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PVar2v10DYVukSS8gwbv-30" value="厂商协助" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PVar2v10DYVukSS8gwbv-30" value="厂商协助" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="590" y="560" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PVar2v10DYVukSS8gwbv-31" value="SDK方协助" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PVar2v10DYVukSS8gwbv-31" value="SDK方协助" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="660" y="560" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
