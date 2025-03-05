@@ -85,8 +85,11 @@
         <mxCell id="PVar2v10DYVukSS8gwbv-29" value="逻辑绕过" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PVar2v10DYVukSS8gwbv-30" value="逻辑绕过" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="530" width="120" height="60" as="geometry" />
+        <mxCell id="PVar2v10DYVukSS8gwbv-30" value="厂商协助" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PVar2v10DYVukSS8gwbv-31" value="逻辑绕过" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
