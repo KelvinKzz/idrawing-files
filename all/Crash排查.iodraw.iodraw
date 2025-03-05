@@ -13,7 +13,7 @@
         <mxCell id="PVar2v10DYVukSS8gwbv-3" value="内存信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PVar2v10DYVukSS8gwbv-4" value="内存信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PVar2v10DYVukSS8gwbv-4" value="堆栈" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVar2v10DYVukSS8gwbv-5" value="日志信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
