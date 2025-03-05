@@ -74,19 +74,19 @@
           <mxGeometry x="240" y="560" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVar2v10DYVukSS8gwbv-26" value="禁用硬件加速" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="560" width="60" height="60" as="geometry" />
+          <mxGeometry x="310" y="560" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVar2v10DYVukSS8gwbv-27" value="插桩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="560" width="60" height="60" as="geometry" />
+          <mxGeometry x="380" y="560" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVar2v10DYVukSS8gwbv-28" value="hook" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="426" y="560" width="60" height="60" as="geometry" />
+          <mxGeometry x="450" y="560" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVar2v10DYVukSS8gwbv-29" value="逻辑绕过" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="486" y="560" width="60" height="60" as="geometry" />
+          <mxGeometry x="520" y="560" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVar2v10DYVukSS8gwbv-30" value="厂商协助" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="586" y="560" width="60" height="60" as="geometry" />
+          <mxGeometry x="590" y="560" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVar2v10DYVukSS8gwbv-31" value="SDK方协助" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="560" width="60" height="60" as="geometry" />
