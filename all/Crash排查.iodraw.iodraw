@@ -8,7 +8,7 @@
           <mxGeometry x="240" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVar2v10DYVukSS8gwbv-2" value="内存信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVar2v10DYVukSS8gwbv-3" value="内存信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="200" width="120" height="60" as="geometry" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="PVar2v10DYVukSS8gwbv-7" value="前后台状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PVar2v10DYVukSS8gwbv-8" value="内存信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
