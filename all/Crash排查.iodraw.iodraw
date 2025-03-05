@@ -58,6 +58,12 @@
         <mxCell id="PVar2v10DYVukSS8gwbv-20" value="特定业务场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PVar2v10DYVukSS8gwbv-21" value="特定线程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PVar2v10DYVukSS8gwbv-22" value="特定线程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
