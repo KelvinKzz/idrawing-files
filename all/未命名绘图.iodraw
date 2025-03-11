@@ -8,52 +8,52 @@
           <mxGeometry x="160" y="250" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-3" value="开发语言" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-4" value="ArktsUI组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-5" value="业务架构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-6" value="NAPI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="780" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-7" value="路由" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="940" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-8" value="网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-9" value="编译工具" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="334" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="344" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-10" value="依赖管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="334" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="344" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-11" value="产物分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="334" width="120" height="60" as="geometry" />
+          <mxGeometry x="780" y="344" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-12" value="模块管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="334" width="120" height="60" as="geometry" />
+          <mxGeometry x="940" y="344" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-13" value="技术沟通" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="414" width="70" height="60" as="geometry" />
+          <mxGeometry x="160" y="440" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-14" value="IR单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="414" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-15" value="会议咨询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="414" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-16" value="线下面谈" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="414" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-17" value="沉淀文档" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="414" width="120" height="60" as="geometry" />
+          <mxGeometry x="780" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-18" value="HDD大会" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="414" width="120" height="60" as="geometry" />
+          <mxGeometry x="940" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
