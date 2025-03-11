@@ -154,8 +154,11 @@
         <mxCell id="r5fEV4Z1OUhf4IMDDzjg-63" value="闪屏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="595" y="430" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="r5fEV4Z1OUhf4IMDDzjg-64" value="闪屏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r5fEV4Z1OUhf4IMDDzjg-64" value="订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="743" y="430" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="r5fEV4Z1OUhf4IMDDzjg-65" value="订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="753" y="440" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
