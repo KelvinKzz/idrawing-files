@@ -31,8 +31,11 @@
         <mxCell id="AcBSg9maA3a_vT3MoScW-10" value="依赖管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="354" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AcBSg9maA3a_vT3MoScW-11" value="依赖管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AcBSg9maA3a_vT3MoScW-11" value="产物分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AcBSg9maA3a_vT3MoScW-12" value="产物分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="364" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
