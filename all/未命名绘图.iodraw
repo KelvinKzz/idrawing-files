@@ -37,8 +37,8 @@
         <mxCell id="AcBSg9maA3a_vT3MoScW-12" value="模块管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="334" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AcBSg9maA3a_vT3MoScW-13" value="技术预研" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="AcBSg9maA3a_vT3MoScW-13" value="技术沟通" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="414" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
