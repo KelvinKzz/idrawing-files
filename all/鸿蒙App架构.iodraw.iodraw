@@ -95,7 +95,7 @@
           <mxGeometry x="890" y="360" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r5fEV4Z1OUhf4IMDDzjg-35" value="事件订阅" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="120" width="60" height="310" as="geometry" />
+          <mxGeometry x="1060" y="120" width="60" height="400" as="geometry" />
         </mxCell>
         <mxCell id="r5fEV4Z1OUhf4IMDDzjg-36" value="页面路由" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="120" width="60" height="310" as="geometry" />
@@ -157,8 +157,8 @@
         <mxCell id="r5fEV4Z1OUhf4IMDDzjg-64" value="订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="743" y="430" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="r5fEV4Z1OUhf4IMDDzjg-65" value="订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="753" y="440" width="120" height="50" as="geometry" />
+        <mxCell id="r5fEV4Z1OUhf4IMDDzjg-65" value="..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="430" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
