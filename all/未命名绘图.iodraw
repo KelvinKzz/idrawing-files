@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AcBSg9maA3a_vT3MoScW-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="800" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="240" width="800" height="180" as="geometry" />
         </mxCell>
@@ -41,7 +44,7 @@
           <mxGeometry x="940" y="344" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-13" value="技术沟通" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="460" width="70" height="60" as="geometry" />
+          <mxGeometry x="160" y="450" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-14" value="IR单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="460" width="120" height="60" as="geometry" />
@@ -57,9 +60,6 @@
         </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-18" value="HDD大会" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="460" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="AcBSg9maA3a_vT3MoScW-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="440" width="800" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
