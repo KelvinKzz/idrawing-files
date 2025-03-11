@@ -14,7 +14,7 @@
           <mxGeometry x="240" y="120" width="500" height="140" as="geometry" />
         </mxCell>
         <mxCell id="r5fEV4Z1OUhf4IMDDzjg-15" value="&amp;nbsp; &amp;nbsp;业务层" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="240" y="270" width="790" height="260" as="geometry" />
+          <mxGeometry x="240" y="270" width="790" height="250" as="geometry" />
         </mxCell>
         <mxCell id="r5fEV4Z1OUhf4IMDDzjg-2" value="App宿主" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="540" width="960" height="60" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="756" y="45" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r5fEV4Z1OUhf4IMDDzjg-16" value="业务公共" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="200" width="100" height="50" as="geometry" />
+          <mxGeometry x="800" y="200" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r5fEV4Z1OUhf4IMDDzjg-18" value="收银台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="130" width="100" height="50" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry x="630" y="130" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r5fEV4Z1OUhf4IMDDzjg-30" value="跨平台业务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="130" width="100" height="50" as="geometry" />
+          <mxGeometry x="800" y="130" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r5fEV4Z1OUhf4IMDDzjg-31" value="Webkit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="200" width="100" height="50" as="geometry" />
@@ -116,10 +116,10 @@
           <mxGeometry x="604" y="45" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r5fEV4Z1OUhf4IMDDzjg-46" value="UI组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="130" width="100" height="50" as="geometry" />
+          <mxGeometry x="910" y="130" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r5fEV4Z1OUhf4IMDDzjg-47" value="数据持久化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="200" width="100" height="50" as="geometry" />
+          <mxGeometry x="910" y="200" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r5fEV4Z1OUhf4IMDDzjg-52" value="Crash管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="-15" width="120" height="50" as="geometry" />
