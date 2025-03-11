@@ -7,8 +7,11 @@
         <mxCell id="wbAee170eTe3xLKildqJ-1" value="技术预研" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AcBSg9maA3a_vT3MoScW-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="AcBSg9maA3a_vT3MoScW-3" value="开发语言" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AcBSg9maA3a_vT3MoScW-4" value="开发语言" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
