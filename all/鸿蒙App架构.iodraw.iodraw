@@ -98,7 +98,7 @@
           <mxGeometry x="1060" y="120" width="60" height="400" as="geometry" />
         </mxCell>
         <mxCell id="r5fEV4Z1OUhf4IMDDzjg-36" value="页面路由" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="120" width="60" height="310" as="geometry" />
+          <mxGeometry x="1140" y="120" width="60" height="400" as="geometry" />
         </mxCell>
         <mxCell id="r5fEV4Z1OUhf4IMDDzjg-37" value="埋点平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="908" y="45" width="120" height="50" as="geometry" />
