@@ -1,0 +1,67 @@
+<mxfile host="www.idrawing.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="BtfgFpa1h4PfV9oOsBX-">
+    <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AcBSg9maA3a_vT3MoScW-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="450" width="720" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AcBSg9maA3a_vT3MoScW-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="720" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="wbAee170eTe3xLKildqJ-1" value="技术预研" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="160" y="240" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AcBSg9maA3a_vT3MoScW-3" value="开发语言" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="300" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AcBSg9maA3a_vT3MoScW-4" value="ArktsUI组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="440" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AcBSg9maA3a_vT3MoScW-5" value="业务架构" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="580" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AcBSg9maA3a_vT3MoScW-6" value="NAPI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="720" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AcBSg9maA3a_vT3MoScW-7" value="路由" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="860" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AcBSg9maA3a_vT3MoScW-8" value="网络" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="300" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AcBSg9maA3a_vT3MoScW-9" value="编译工具" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="440" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AcBSg9maA3a_vT3MoScW-10" value="依赖管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="580" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AcBSg9maA3a_vT3MoScW-11" value="产物分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="720" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AcBSg9maA3a_vT3MoScW-12" value="模块管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="860" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AcBSg9maA3a_vT3MoScW-13" value="技术沟通" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="450" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AcBSg9maA3a_vT3MoScW-14" value="IR单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="300" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AcBSg9maA3a_vT3MoScW-15" value="会议咨询" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="440" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AcBSg9maA3a_vT3MoScW-16" value="线下面谈" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="580" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AcBSg9maA3a_vT3MoScW-17" value="沉淀文档" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="720" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AcBSg9maA3a_vT3MoScW-18" value="HDD大会" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="860" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
