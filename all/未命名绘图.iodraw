@@ -8,7 +8,7 @@
           <mxGeometry x="280" y="440" width="800" height="100" as="geometry" />
         </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="240" width="800" height="180" as="geometry" />
+          <mxGeometry x="280" y="240" width="720" height="180" as="geometry" />
         </mxCell>
         <mxCell id="wbAee170eTe3xLKildqJ-1" value="技术预研" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="240" width="70" height="60" as="geometry" />
@@ -23,10 +23,10 @@
           <mxGeometry x="580" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-6" value="NAPI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-7" value="路由" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-8" value="网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="340" width="120" height="60" as="geometry" />
@@ -38,10 +38,10 @@
           <mxGeometry x="580" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-11" value="产物分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="344" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-12" value="模块管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="344" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-13" value="技术沟通" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="450" width="70" height="60" as="geometry" />
