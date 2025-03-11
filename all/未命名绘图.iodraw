@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wbAee170eTe3xLKildqJ-1" value="技术预研" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="250" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-3" value="开发语言" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="250" width="120" height="60" as="geometry" />
@@ -52,8 +52,8 @@
         <mxCell id="AcBSg9maA3a_vT3MoScW-17" value="沉淀文档" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="414" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AcBSg9maA3a_vT3MoScW-18" value="沉淀文档" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="424" width="120" height="60" as="geometry" />
+        <mxCell id="AcBSg9maA3a_vT3MoScW-18" value="HDD大会" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="414" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
