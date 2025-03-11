@@ -134,7 +134,10 @@
           <mxGeometry x="1220" y="-30" width="120" height="540" as="geometry" />
         </mxCell>
         <mxCell id="r5fEV4Z1OUhf4IMDDzjg-57" value="模块管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="-30" width="120" height="540" as="geometry" />
+          <mxGeometry x="1570" y="-30" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="r5fEV4Z1OUhf4IMDDzjg-58" value="编译插件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="-20" width="120" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
