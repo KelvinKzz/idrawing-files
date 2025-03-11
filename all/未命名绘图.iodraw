@@ -25,6 +25,12 @@
         <mxCell id="AcBSg9maA3a_vT3MoScW-8" value="网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="AcBSg9maA3a_vT3MoScW-9" value="编译工具" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AcBSg9maA3a_vT3MoScW-10" value="编译工具" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="364" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
