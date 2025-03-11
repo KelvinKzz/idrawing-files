@@ -17,7 +17,7 @@
           <mxGeometry x="240" y="120" width="500" height="140" as="geometry" />
         </mxCell>
         <mxCell id="r5fEV4Z1OUhf4IMDDzjg-15" value="&amp;nbsp; &amp;nbsp;业务层" style="rounded=1;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="240" y="270" width="790" height="230" as="geometry" />
+          <mxGeometry x="240" y="299" width="790" height="230" as="geometry" />
         </mxCell>
         <mxCell id="r5fEV4Z1OUhf4IMDDzjg-2" value="App宿主" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="240" y="540" width="960" height="60" as="geometry" />
