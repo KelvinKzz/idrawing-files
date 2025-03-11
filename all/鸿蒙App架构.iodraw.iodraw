@@ -148,8 +148,11 @@
         <mxCell id="r5fEV4Z1OUhf4IMDDzjg-61" value="个人中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="430" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="r5fEV4Z1OUhf4IMDDzjg-62" value="个人中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="440" width="120" height="50" as="geometry" />
+        <mxCell id="r5fEV4Z1OUhf4IMDDzjg-62" value="广告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="448" y="430" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="r5fEV4Z1OUhf4IMDDzjg-63" value="广告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="430" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
