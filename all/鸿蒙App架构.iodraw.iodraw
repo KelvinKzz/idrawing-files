@@ -10,7 +10,7 @@
         <mxCell id="r5fEV4Z1OUhf4IMDDzjg-54" value="&amp;nbsp;基础库" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="240" y="-30" width="960" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="r5fEV4Z1OUhf4IMDDzjg-51" value="业务&lt;div&gt;公共&lt;div&gt;模块&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="r5fEV4Z1OUhf4IMDDzjg-51" value="&amp;nbsp;业务&lt;div&gt;&amp;nbsp;公共&lt;div&gt;&amp;nbsp;模块&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="750" y="120" width="280" height="140" as="geometry" />
         </mxCell>
         <mxCell id="r5fEV4Z1OUhf4IMDDzjg-32" value="&amp;nbsp;基础服务" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;align=left;" vertex="1" parent="1">
@@ -98,7 +98,7 @@
           <mxGeometry x="890" y="360" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r5fEV4Z1OUhf4IMDDzjg-35" value="事件订阅" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="120" width="60" height="400" as="geometry" />
+          <mxGeometry x="1050" y="116" width="60" height="400" as="geometry" />
         </mxCell>
         <mxCell id="r5fEV4Z1OUhf4IMDDzjg-36" value="页面路由" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="120" width="60" height="400" as="geometry" />
