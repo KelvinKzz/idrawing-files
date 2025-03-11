@@ -142,7 +142,7 @@
         <mxCell id="r5fEV4Z1OUhf4IMDDzjg-59" value="代码扫描" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1590" y="150" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="r5fEV4Z1OUhf4IMDDzjg-60" value="代码扫描" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r5fEV4Z1OUhf4IMDDzjg-60" value="构建工具" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1754" y="150" width="120" height="110" as="geometry" />
         </mxCell>
       </root>
