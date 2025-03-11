@@ -8,10 +8,10 @@
           <mxGeometry x="270" y="640" width="450" height="180" as="geometry" />
         </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="280" y="240" width="440" height="360" as="geometry" />
+          <mxGeometry x="280" y="240" width="440" height="340" as="geometry" />
         </mxCell>
         <mxCell id="wbAee170eTe3xLKildqJ-1" value="技术预研" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="140" y="340" width="70" height="60" as="geometry" />
+          <mxGeometry x="130" y="380" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcBSg9maA3a_vT3MoScW-3" value="开发语言" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="300" y="260" width="120" height="60" as="geometry" />
