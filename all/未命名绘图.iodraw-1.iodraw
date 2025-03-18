@@ -11,7 +11,7 @@
           <mxGeometry x="400" y="565" width="590" height="75" as="geometry" />
         </mxCell>
         <mxCell id="DcIdnI75j6S_Bd9ueBFD-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="370" width="580" height="170" as="geometry" />
+          <mxGeometry x="400" y="370" width="590" height="170" as="geometry" />
         </mxCell>
         <mxCell id="DcIdnI75j6S_Bd9ueBFD-4" value="性能监控Apm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="370" width="120" height="60" as="geometry" />
