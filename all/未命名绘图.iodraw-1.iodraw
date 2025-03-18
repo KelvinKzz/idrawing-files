@@ -25,8 +25,8 @@
         <mxCell id="DcIdnI75j6S_Bd9ueBFD-8" value="研发自测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="584.5" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DcIdnI75j6S_Bd9ueBFD-9" value="研发自测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="594.5" y="520" width="120" height="60" as="geometry" />
+        <mxCell id="DcIdnI75j6S_Bd9ueBFD-9" value="定向排查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
