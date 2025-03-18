@@ -31,6 +31,9 @@
         <mxCell id="DcIdnI75j6S_Bd9ueBFD-10" value="问题复现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="510" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DcIdnI75j6S_Bd9ueBFD-11" value="线下" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
