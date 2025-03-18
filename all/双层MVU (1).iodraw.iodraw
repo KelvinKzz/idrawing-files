@@ -57,14 +57,17 @@
             <mxPoint x="484" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pidaXmvuFLgDdp5qrV8t-6" value="OrderModule1UIState" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="pidaXmvuFLgDdp5qrV8t-6" value="OrderModule1UIState" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="510" y="460" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pidaXmvuFLgDdp5qrV8t-7" value="OrderModule3UIState" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="pidaXmvuFLgDdp5qrV8t-7" value="OrderModule3UIState" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="510" y="580" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pidaXmvuFLgDdp5qrV8t-8" value="OrderModule2UIState" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="pidaXmvuFLgDdp5qrV8t-8" value="OrderModule2UIState" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="510" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pidaXmvuFLgDdp5qrV8t-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
