@@ -1,0 +1,70 @@
+<mxfile host="www.idrawing.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="Epw5evwrItwbkx39dz2u">
+    <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DcIdnI75j6S_Bd9ueBFD-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="450" width="140" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="DcIdnI75j6S_Bd9ueBFD-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="400" y="565" width="590" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="DcIdnI75j6S_Bd9ueBFD-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="400" y="370" width="590" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="DcIdnI75j6S_Bd9ueBFD-4" value="性能监控Apm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="370" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcIdnI75j6S_Bd9ueBFD-5" value="内存均值" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="472" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcIdnI75j6S_Bd9ueBFD-6" value="内存预警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="558" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcIdnI75j6S_Bd9ueBFD-7" value="配合自动化测试" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="413" y="573" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcIdnI75j6S_Bd9ueBFD-8" value="研发自测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="561" y="573" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcIdnI75j6S_Bd9ueBFD-9" value="定向排查" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="710" y="573" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcIdnI75j6S_Bd9ueBFD-10" value="问题复现" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="858" y="573" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcIdnI75j6S_Bd9ueBFD-11" value="线下&lt;div&gt;&lt;div&gt;LeakCanary&lt;/div&gt;&lt;div&gt;Profiler&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="270" y="565" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="DcIdnI75j6S_Bd9ueBFD-12" value="版本控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="413" y="382.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcIdnI75j6S_Bd9ueBFD-13" value="检测机制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="858" y="469.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcIdnI75j6S_Bd9ueBFD-14" value="阈值控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="710" y="382.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcIdnI75j6S_Bd9ueBFD-15" value="Oss上传" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="858" y="382.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcIdnI75j6S_Bd9ueBFD-16" value="埋点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="413" y="469.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcIdnI75j6S_Bd9ueBFD-17" value="开关控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="561" y="382.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcIdnI75j6S_Bd9ueBFD-18" value="线上&lt;div&gt;内存dump方案&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="270" y="370" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="DcIdnI75j6S_Bd9ueBFD-19" value="独立进程" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="561" y="469.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcIdnI75j6S_Bd9ueBFD-20" value="日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="710" y="469.25" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
