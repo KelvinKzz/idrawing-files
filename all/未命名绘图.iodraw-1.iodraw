@@ -7,7 +7,7 @@
         <mxCell id="DcIdnI75j6S_Bd9ueBFD-2" value="&lt;div&gt;LeakCanary&lt;/div&gt;&lt;div&gt;Profiler&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="259" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DcIdnI75j6S_Bd9ueBFD-3" value="线上dump方案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DcIdnI75j6S_Bd9ueBFD-3" value="内存dump方案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="383.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DcIdnI75j6S_Bd9ueBFD-4" value="性能监控Apm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -35,19 +35,19 @@
           <mxGeometry x="110" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DcIdnI75j6S_Bd9ueBFD-12" value="版本控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="415" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DcIdnI75j6S_Bd9ueBFD-13" value="检测机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DcIdnI75j6S_Bd9ueBFD-14" value="阈值控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="725" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DcIdnI75j6S_Bd9ueBFD-15" value="Oss上传" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DcIdnI75j6S_Bd9ueBFD-16" value="埋点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="1035" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DcIdnI75j6S_Bd9ueBFD-17" value="开关控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1190" y="390" width="120" height="60" as="geometry" />
