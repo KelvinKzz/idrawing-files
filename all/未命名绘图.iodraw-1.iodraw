@@ -11,7 +11,7 @@
           <mxGeometry x="260" y="383.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DcIdnI75j6S_Bd9ueBFD-4" value="性能监控Apm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DcIdnI75j6S_Bd9ueBFD-5" value="内存均值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="260" width="120" height="60" as="geometry" />
