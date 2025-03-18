@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DcIdnI75j6S_Bd9ueBFD-2" value="线下&lt;div&gt;LeakCanary&lt;/div&gt;&lt;div&gt;Profiler&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DcIdnI75j6S_Bd9ueBFD-2" value="&lt;br&gt;&lt;div&gt;LeakCanary&lt;/div&gt;&lt;div&gt;Profiler&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="259" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DcIdnI75j6S_Bd9ueBFD-3" value="线上dump方案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
