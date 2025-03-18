@@ -16,9 +16,6 @@
         <mxCell id="WhR_G8ua0hraaUCRW9oi-1" value="OrderDataSource" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="490" y="260" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="WhR_G8ua0hraaUCRW9oi-6" value="埋&lt;br&gt;点&lt;br&gt;上&lt;br&gt;报" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="700" y="150" width="50" height="360" as="geometry" />
-        </mxCell>
         <mxCell id="WhR_G8ua0hraaUCRW9oi-8" value="OrderModule1&lt;br&gt;Layout" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="230" y="120" width="120" height="40" as="geometry" />
         </mxCell>
