@@ -10,6 +10,9 @@
         <mxCell id="DcIdnI75j6S_Bd9ueBFD-3" value="线上dump方案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="390" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DcIdnI75j6S_Bd9ueBFD-4" value="线上dump方案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
