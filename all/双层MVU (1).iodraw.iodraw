@@ -16,15 +16,6 @@
         <mxCell id="WhR_G8ua0hraaUCRW9oi-1" value="OrderDataSource" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="690" y="260" width="100" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="WhR_G8ua0hraaUCRW9oi-2" value="OrderModule1UiState" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="490" y="230" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WhR_G8ua0hraaUCRW9oi-3" value="OrderModule2UiState" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="490" y="310" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WhR_G8ua0hraaUCRW9oi-4" value="OrderModuleXUiState" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="490" y="390" width="130" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="WhR_G8ua0hraaUCRW9oi-6" value="埋&lt;br&gt;点&lt;br&gt;上&lt;br&gt;报" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="870" y="150" width="50" height="360" as="geometry" />
         </mxCell>
