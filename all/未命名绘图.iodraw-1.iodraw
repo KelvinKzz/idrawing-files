@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DcIdnI75j6S_Bd9ueBFD-4" value="性能监控Apm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="1040" y="385" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DcIdnI75j6S_Bd9ueBFD-5" value="内存均值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="384" width="120" height="60" as="geometry" />
+          <mxGeometry x="1040" y="469" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DcIdnI75j6S_Bd9ueBFD-6" value="内存预警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="1040" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DcIdnI75j6S_Bd9ueBFD-7" value="配合自动化测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="570" width="120" height="60" as="geometry" />
