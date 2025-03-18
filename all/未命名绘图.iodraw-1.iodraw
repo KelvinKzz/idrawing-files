@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DcIdnI75j6S_Bd9ueBFD-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="450" width="140" height="190" as="geometry" />
+        </mxCell>
         <mxCell id="DcIdnI75j6S_Bd9ueBFD-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="565" width="590" height="70" as="geometry" />
         </mxCell>
@@ -60,9 +63,6 @@
         </mxCell>
         <mxCell id="DcIdnI75j6S_Bd9ueBFD-20" value="日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="715" y="469.25" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DcIdnI75j6S_Bd9ueBFD-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="370" width="140" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
