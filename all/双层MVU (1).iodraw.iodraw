@@ -31,8 +31,12 @@
         <mxCell id="WhR_G8ua0hraaUCRW9oi-27" value="OrderModule1&lt;br&gt;Presenter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="230" y="470" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q-nrCZNK5gI2lYiat5zr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="q-nrCZNK5gI2lYiat5zr-2" target="q-nrCZNK5gI2lYiat5zr-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="q-nrCZNK5gI2lYiat5zr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="q-nrCZNK5gI2lYiat5zr-2" target="q-nrCZNK5gI2lYiat5zr-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="300" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="WhR_G8ua0hraaUCRW9oi-31" value="OrderModule3&lt;br&gt;Layout" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="230" y="240" width="120" height="40" as="geometry" />
