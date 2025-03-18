@@ -30,7 +30,7 @@
         </mxCell>
         <mxCell id="q-nrCZNK5gI2lYiat5zr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="q-nrCZNK5gI2lYiat5zr-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="300" as="sourcePoint" />
+            <mxPoint x="290" y="300" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="290" y="300" />
             </Array>
