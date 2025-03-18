@@ -55,7 +55,7 @@
         <mxCell id="DcIdnI75j6S_Bd9ueBFD-18" value="线上" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="383.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DcIdnI75j6S_Bd9ueBFD-19" value="开关控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DcIdnI75j6S_Bd9ueBFD-19" value="独立进程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="393.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
