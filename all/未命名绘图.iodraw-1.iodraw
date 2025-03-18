@@ -17,10 +17,10 @@
           <mxGeometry x="415" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DcIdnI75j6S_Bd9ueBFD-8" value="研发自测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="570.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="563" y="570.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DcIdnI75j6S_Bd9ueBFD-9" value="定向排查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="725.5" y="570.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="712" y="570.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DcIdnI75j6S_Bd9ueBFD-10" value="问题复现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="570.5" width="120" height="60" as="geometry" />
