@@ -69,8 +69,8 @@
         <mxCell id="pidaXmvuFLgDdp5qrV8t-8" value="OrderModule2UIState" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="495.78999999999996" y="305" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pidaXmvuFLgDdp5qrV8t-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="545" y="558" width="50" height="30" as="geometry" />
+        <mxCell id="pidaXmvuFLgDdp5qrV8t-10" value="UI State" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="558" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
