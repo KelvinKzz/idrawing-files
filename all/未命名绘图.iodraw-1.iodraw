@@ -37,8 +37,8 @@
         <mxCell id="DcIdnI75j6S_Bd9ueBFD-12" value="版本控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DcIdnI75j6S_Bd9ueBFD-13" value="版本控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="DcIdnI75j6S_Bd9ueBFD-13" value="检测机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
