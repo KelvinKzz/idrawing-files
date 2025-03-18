@@ -52,8 +52,8 @@
         <mxCell id="DcIdnI75j6S_Bd9ueBFD-17" value="开关控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1190" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DcIdnI75j6S_Bd9ueBFD-18" value="线下" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="520" width="120" height="60" as="geometry" />
+        <mxCell id="DcIdnI75j6S_Bd9ueBFD-18" value="线上" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="384" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
