@@ -166,16 +166,16 @@
           <mxGeometry x="400" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ofv8DB8x5FxINctjCRKF-55" value="页面加载" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="220" width="120" height="80" as="geometry" />
+          <mxGeometry x="400" y="228" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ofv8DB8x5FxINctjCRKF-56" value="桥通信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="313" width="120" height="80" as="geometry" />
+          <mxGeometry x="400" y="326" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ofv8DB8x5FxINctjCRKF-57" value="事件处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="414" width="120" height="80" as="geometry" />
+          <mxGeometry x="400" y="423" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ofv8DB8x5FxINctjCRKF-58" value="页面销毁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="513.2" width="120" height="80" as="geometry" />
+          <mxGeometry x="400" y="521" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ofv8DB8x5FxINctjCRKF-59" value="代码加载" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="619" width="120" height="80" as="geometry" />
