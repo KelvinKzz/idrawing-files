@@ -7,7 +7,7 @@
         <mxCell id="Ofv8DB8x5FxINctjCRKF-48" value="引擎功能" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="380" y="130" width="140" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="Ofv8DB8x5FxINctjCRKF-36" value="C++" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="Ofv8DB8x5FxINctjCRKF-36" value="C++" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="570" y="313" width="480" height="74" as="geometry" />
         </mxCell>
         <mxCell id="Ofv8DB8x5FxINctjCRKF-35" value="ETS" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
@@ -121,7 +121,7 @@
             <mxPoint x="600" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ofv8DB8x5FxINctjCRKF-32" value="Core" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="Ofv8DB8x5FxINctjCRKF-32" value="Core" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="570" y="430" width="480" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Ofv8DB8x5FxINctjCRKF-13" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 12pt;&quot;&gt;&lt;div style=&quot;font-size: 12pt;&quot;&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; text-align: start; white-space: normal;&quot;&gt;类型转换器&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;labelBackgroundColor=none;fontFamily=Helvetica;" vertex="1" parent="1">
