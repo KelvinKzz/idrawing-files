@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ofv8DB8x5FxINctjCRKF-60" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="110" width="150" height="590" as="geometry" />
+        <mxCell id="Ofv8DB8x5FxINctjCRKF-60" value="paladin功能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="90" width="150" height="620" as="geometry" />
         </mxCell>
         <mxCell id="Ofv8DB8x5FxINctjCRKF-36" value="C++" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="570" y="313" width="480" height="74" as="geometry" />
