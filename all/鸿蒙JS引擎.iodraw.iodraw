@@ -55,7 +55,7 @@
         <mxCell id="Ofv8DB8x5FxINctjCRKF-33" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="610" y="380" width="420" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="Ofv8DB8x5FxINctjCRKF-32" value="C++引擎调用模块" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="Ofv8DB8x5FxINctjCRKF-33">
+        <mxCell id="Ofv8DB8x5FxINctjCRKF-32" value="Core" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="Ofv8DB8x5FxINctjCRKF-33">
           <mxGeometry width="420" height="250" as="geometry" />
         </mxCell>
         <mxCell id="Ofv8DB8x5FxINctjCRKF-13" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 12pt;&quot;&gt;&lt;div style=&quot;font-size: 12pt;&quot;&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; text-align: start; white-space: normal;&quot;&gt;类型转换器&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;labelBackgroundColor=none;fontFamily=Helvetica;" vertex="1" parent="Ofv8DB8x5FxINctjCRKF-33">
@@ -84,9 +84,6 @@
         </mxCell>
         <mxCell id="Ofv8DB8x5FxINctjCRKF-31" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 12pt;&quot;&gt;&lt;div style=&quot;font-size: 12pt;&quot;&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; text-align: start; white-space: normal;&quot;&gt;引擎管理&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;labelBackgroundColor=none;fontFamily=Helvetica;" vertex="1" parent="Ofv8DB8x5FxINctjCRKF-33">
           <mxGeometry x="290" y="177" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Ofv8DB8x5FxINctjCRKF-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ofv8DB8x5FxINctjCRKF-14" target="Ofv8DB8x5FxINctjCRKF-21">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
