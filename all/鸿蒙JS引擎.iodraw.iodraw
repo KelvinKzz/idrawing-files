@@ -177,8 +177,8 @@
         <mxCell id="Ofv8DB8x5FxINctjCRKF-58" value="页面销毁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="513.2" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ofv8DB8x5FxINctjCRKF-59" value="事件处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="424" width="120" height="80" as="geometry" />
+        <mxCell id="Ofv8DB8x5FxINctjCRKF-59" value="代码加载" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="619" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
