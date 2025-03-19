@@ -165,8 +165,11 @@
         <mxCell id="Ofv8DB8x5FxINctjCRKF-54" value="初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ofv8DB8x5FxINctjCRKF-55" value="初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ofv8DB8x5FxINctjCRKF-55" value="页面加载" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ofv8DB8x5FxINctjCRKF-56" value="页面加载" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="313" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
