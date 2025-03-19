@@ -52,8 +52,8 @@
         <mxCell id="Ofv8DB8x5FxINctjCRKF-18" value="ts_function" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="780" y="633" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ofv8DB8x5FxINctjCRKF-19" value="ts_function" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="790" y="643" width="120" height="60" as="geometry" />
+        <mxCell id="Ofv8DB8x5FxINctjCRKF-19" value="注册函数封装" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="557" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
