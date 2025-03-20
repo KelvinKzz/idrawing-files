@@ -32,10 +32,10 @@
           <mxGeometry x="730" y="150" width="60" height="290" as="geometry" />
         </mxCell>
         <mxCell id="PVar2v10DYVukSS8gwbv-24" value="解决方案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="310" y="570" width="490" height="80" as="geometry" />
+          <mxGeometry x="310" y="590" width="490" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PVar2v10DYVukSS8gwbv-31" value="SDK方协助" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="525" y="600" width="60" height="40" as="geometry" />
+          <mxGeometry x="330" y="620" width="460" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m98p7OJmF4cT5rShcNYU-1" value="线程" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="544.5" y="200" width="80" height="60" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="497" y="380" width="132" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m98p7OJmF4cT5rShcNYU-6" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="310" y="460" width="490" height="100" as="geometry" />
+          <mxGeometry x="310" y="480" width="490" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PVar2v10DYVukSS8gwbv-17" value="规律总结" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;" parent="m98p7OJmF4cT5rShcNYU-6" vertex="1">
           <mxGeometry width="489.99999999999994" height="100" as="geometry" />
