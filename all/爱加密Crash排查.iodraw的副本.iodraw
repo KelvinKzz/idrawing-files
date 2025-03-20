@@ -58,16 +58,16 @@
         <mxCell id="PVar2v10DYVukSS8gwbv-15" value="城市" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="497" y="380" width="132" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PVar2v10DYVukSS8gwbv-17" value="规律总结" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="PVar2v10DYVukSS8gwbv-17" value="规律总结" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="310" y="470" width="489.99999999999994" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="PVar2v10DYVukSS8gwbv-18" value="特定机型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="PVar2v10DYVukSS8gwbv-18" value="特定机型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="330.4166666666667" y="500" width="142.91666666666666" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PVar2v10DYVukSS8gwbv-19" value="特定系统版本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="PVar2v10DYVukSS8gwbv-19" value="特定系统版本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="483.54166666666663" y="500" width="142.91666666666666" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m98p7OJmF4cT5rShcNYU-4" value="特定日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="m98p7OJmF4cT5rShcNYU-4" value="特定日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="636.6666666666666" y="500" width="142.91666666666666" height="60" as="geometry" />
         </mxCell>
       </root>
