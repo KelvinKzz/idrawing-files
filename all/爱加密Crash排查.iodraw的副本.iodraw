@@ -31,15 +31,6 @@
         <mxCell id="PVar2v10DYVukSS8gwbv-14" value="实时日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="730" y="150" width="60" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="PVar2v10DYVukSS8gwbv-17" value="规律总结" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="310" y="470" width="240" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="PVar2v10DYVukSS8gwbv-18" value="特定机型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="330" y="500" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PVar2v10DYVukSS8gwbv-19" value="特定系统版本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="400" y="500" width="60" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="PVar2v10DYVukSS8gwbv-24" value="解决方案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="150" y="560" width="60" height="60" as="geometry" />
         </mxCell>
@@ -67,8 +58,20 @@
         <mxCell id="PVar2v10DYVukSS8gwbv-15" value="城市" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="497" y="380" width="132" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m98p7OJmF4cT5rShcNYU-4" value="特定日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="470" y="500" width="60" height="60" as="geometry" />
+        <mxCell id="m98p7OJmF4cT5rShcNYU-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="310" y="470" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PVar2v10DYVukSS8gwbv-17" value="规律总结" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;" parent="m98p7OJmF4cT5rShcNYU-5" vertex="1">
+          <mxGeometry width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PVar2v10DYVukSS8gwbv-18" value="特定机型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="m98p7OJmF4cT5rShcNYU-5" vertex="1">
+          <mxGeometry x="20" y="30" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PVar2v10DYVukSS8gwbv-19" value="特定系统版本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="m98p7OJmF4cT5rShcNYU-5" vertex="1">
+          <mxGeometry x="90" y="30" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m98p7OJmF4cT5rShcNYU-4" value="特定日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="m98p7OJmF4cT5rShcNYU-5">
+          <mxGeometry x="160" y="30" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
