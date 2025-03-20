@@ -67,6 +67,9 @@
         <mxCell id="PVar2v10DYVukSS8gwbv-15" value="城市" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="497" y="380" width="132" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="m98p7OJmF4cT5rShcNYU-4" value="特定系统版本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="480" y="520" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
