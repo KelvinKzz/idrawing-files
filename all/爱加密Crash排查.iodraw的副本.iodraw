@@ -11,7 +11,7 @@
           <mxGeometry x="340" y="200" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVar2v10DYVukSS8gwbv-3" value="内存信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="150" y="120" width="60" height="60" as="geometry" />
+          <mxGeometry x="310" y="110" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVar2v10DYVukSS8gwbv-4" value="堆栈" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="440" y="130" width="80" height="60" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="440" y="200" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVar2v10DYVukSS8gwbv-8" value="用户信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="150" y="290" width="60" height="60" as="geometry" />
+          <mxGeometry x="310" y="320" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVar2v10DYVukSS8gwbv-9" value="用户id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="365" y="370" width="105" height="60" as="geometry" />
