@@ -41,7 +41,7 @@
           <mxGeometry x="660" y="150" width="60" height="290" as="geometry" />
         </mxCell>
         <mxCell id="PVar2v10DYVukSS8gwbv-14" value="实时日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="360" width="230" height="60" as="geometry" />
+          <mxGeometry x="730" y="150" width="60" height="290" as="geometry" />
         </mxCell>
         <mxCell id="PVar2v10DYVukSS8gwbv-15" value="城市" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="440" y="380" width="80" height="60" as="geometry" />
