@@ -35,7 +35,7 @@
           <mxGeometry x="440" y="310" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVar2v10DYVukSS8gwbv-12" value="日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="650" y="110" width="160" height="340" as="geometry" />
+          <mxGeometry x="650" y="110" width="150" height="340" as="geometry" />
         </mxCell>
         <mxCell id="PVar2v10DYVukSS8gwbv-13" value="离线日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="660" y="150" width="60" height="290" as="geometry" />
