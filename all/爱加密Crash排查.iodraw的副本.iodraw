@@ -35,13 +35,13 @@
           <mxGeometry x="490" y="290" width="105" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVar2v10DYVukSS8gwbv-12" value="日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="150" y="380" width="60" height="60" as="geometry" />
+          <mxGeometry x="595" y="350" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVar2v10DYVukSS8gwbv-13" value="离线日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="240" y="380" width="230" height="60" as="geometry" />
+          <mxGeometry x="685" y="350" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVar2v10DYVukSS8gwbv-14" value="实时日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="490" y="380" width="230" height="60" as="geometry" />
+          <mxGeometry x="935" y="350" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVar2v10DYVukSS8gwbv-15" value="城市" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="615" y="290" width="105" height="60" as="geometry" />
