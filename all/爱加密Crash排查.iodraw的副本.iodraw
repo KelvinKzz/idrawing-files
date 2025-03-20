@@ -62,7 +62,7 @@
           <mxGeometry x="330.4166666666667" y="500" width="142.91666666666666" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVar2v10DYVukSS8gwbv-19" value="特定系统版本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="491.54166666666663" y="500" width="142.91666666666666" height="60" as="geometry" />
+          <mxGeometry x="489" y="500" width="142.91666666666666" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m98p7OJmF4cT5rShcNYU-4" value="特定日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="647.0866666666666" y="500" width="142.91666666666666" height="60" as="geometry" />
