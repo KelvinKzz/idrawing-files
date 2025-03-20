@@ -52,23 +52,20 @@
         <mxCell id="m98p7OJmF4cT5rShcNYU-2" value="爱加密soLinkerCrash问题" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="310" y="70" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m98p7OJmF4cT5rShcNYU-3" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="310" y="290" width="300" height="160" as="geometry" />
+        <mxCell id="PVar2v10DYVukSS8gwbv-8" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;" parent="1" vertex="1">
+          <mxGeometry x="310" y="290" width="330" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="PVar2v10DYVukSS8gwbv-8" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;" parent="m98p7OJmF4cT5rShcNYU-3" vertex="1">
-          <mxGeometry width="300" height="160" as="geometry" />
+        <mxCell id="PVar2v10DYVukSS8gwbv-9" value="用户id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="343" y="380" width="132" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PVar2v10DYVukSS8gwbv-9" value="用户id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="m98p7OJmF4cT5rShcNYU-3" vertex="1">
-          <mxGeometry x="30" y="90" width="120" height="60" as="geometry" />
+        <mxCell id="PVar2v10DYVukSS8gwbv-10" value="手机号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="343" y="310" width="132" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PVar2v10DYVukSS8gwbv-10" value="手机号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="m98p7OJmF4cT5rShcNYU-3" vertex="1">
-          <mxGeometry x="30" y="20" width="120" height="60" as="geometry" />
+        <mxCell id="PVar2v10DYVukSS8gwbv-11" value="运脉订单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="497" y="310" width="132" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PVar2v10DYVukSS8gwbv-11" value="运脉订单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="m98p7OJmF4cT5rShcNYU-3" vertex="1">
-          <mxGeometry x="170" y="20" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PVar2v10DYVukSS8gwbv-15" value="城市" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="m98p7OJmF4cT5rShcNYU-3" vertex="1">
-          <mxGeometry x="170" y="90" width="120" height="60" as="geometry" />
+        <mxCell id="PVar2v10DYVukSS8gwbv-15" value="城市" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="497" y="380" width="132" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
