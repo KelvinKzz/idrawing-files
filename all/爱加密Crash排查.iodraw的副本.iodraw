@@ -31,7 +31,7 @@
         <mxCell id="PVar2v10DYVukSS8gwbv-14" value="实时日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="730" y="150" width="60" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="PVar2v10DYVukSS8gwbv-24" value="解决方案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="PVar2v10DYVukSS8gwbv-24" value="解决方案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="310" y="570" width="490" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PVar2v10DYVukSS8gwbv-31" value="SDK方协助" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
