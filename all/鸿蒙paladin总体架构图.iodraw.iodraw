@@ -154,6 +154,93 @@
         <mxCell id="VZWGNS05TGhIEaotIjZz-65" value="监控运维" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="730" y="40" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="vEojJYaQSoHmhiK890eS-1" value="机型信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="160" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEojJYaQSoHmhiK890eS-2" value="内存信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="450" y="160" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEojJYaQSoHmhiK890eS-3" value="内存信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="260" y="160" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEojJYaQSoHmhiK890eS-4" value="堆栈" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="750" y="160" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEojJYaQSoHmhiK890eS-5" value="系统版本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="650" y="160" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEojJYaQSoHmhiK890eS-6" value="前后台状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="550" y="160" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEojJYaQSoHmhiK890eS-7" value="用户信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="260" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEojJYaQSoHmhiK890eS-8" value="用户id" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="350" y="250" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEojJYaQSoHmhiK890eS-9" value="手机号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="475" y="250" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEojJYaQSoHmhiK890eS-10" value="运脉订单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="600" y="250" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEojJYaQSoHmhiK890eS-11" value="日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="260" y="340" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEojJYaQSoHmhiK890eS-12" value="离线日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="350" y="340" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEojJYaQSoHmhiK890eS-13" value="实时日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="600" y="340" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEojJYaQSoHmhiK890eS-14" value="城市" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="725" y="250" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEojJYaQSoHmhiK890eS-15" value="规律总结" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="260" y="430" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEojJYaQSoHmhiK890eS-16" value="特定机型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="350" y="430" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEojJYaQSoHmhiK890eS-17" value="特定系统版本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="434" y="430" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEojJYaQSoHmhiK890eS-18" value="特定业务场景" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="518" y="430" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEojJYaQSoHmhiK890eS-19" value="特定线程" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="602" y="430" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEojJYaQSoHmhiK890eS-20" value="特定页面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="686" y="430" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEojJYaQSoHmhiK890eS-21" value="相同的Crash日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="770" y="430" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEojJYaQSoHmhiK890eS-22" value="解决方案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="260" y="520" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEojJYaQSoHmhiK890eS-23" value="代码保护" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="520" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEojJYaQSoHmhiK890eS-24" value="禁用硬件加速" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="420" y="520" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEojJYaQSoHmhiK890eS-25" value="插桩" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="490" y="520" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEojJYaQSoHmhiK890eS-26" value="hook" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="520" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEojJYaQSoHmhiK890eS-27" value="逻辑绕过" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="630" y="520" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEojJYaQSoHmhiK890eS-28" value="厂商协助" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="700" y="520" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEojJYaQSoHmhiK890eS-29" value="SDK方协助" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="770" y="520" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
