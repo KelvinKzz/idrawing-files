@@ -199,6 +199,9 @@
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-75" value="云真机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="960" y="390" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UxzoOFNsm0TsBKT6pXCF-76" value="回放模式控制器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
