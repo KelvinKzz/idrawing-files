@@ -128,7 +128,7 @@
           <mxGeometry x="169.28571428571428" y="1047.5" width="111.42857142857143" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-62" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;&lt;font color=&quot;#1f2329&quot;&gt;初始化&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="400" y="210" width="280" height="270" as="geometry" />
+          <mxGeometry x="400" y="210" width="280" height="340" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-63" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="70" y="360" width="280" height="130" as="geometry" />
@@ -158,7 +158,7 @@
           <mxGeometry x="410.71" y="315" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-64" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="410" y="400" width="258.46" height="120" as="geometry" />
+          <mxGeometry x="412.25" y="400" width="258.46" height="120" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-45" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 14px; text-align: left;&quot;&gt;自定义配置&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="UxzoOFNsm0TsBKT6pXCF-64">
           <mxGeometry width="258.46" height="120" as="geometry" />
