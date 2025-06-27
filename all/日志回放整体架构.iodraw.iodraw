@@ -206,10 +206,10 @@
           <mxGeometry x="1050.71" y="980" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-30" value="事件回放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1170.71" y="930" width="110" height="40" as="geometry" />
+          <mxGeometry x="1164.71" y="920" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-80" value="页面回放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="930" width="110" height="40" as="geometry" />
+          <mxGeometry x="1040" y="920" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-82" value="特殊功能回放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1170.71" y="980" width="110" height="40" as="geometry" />
