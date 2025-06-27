@@ -38,7 +38,7 @@
           <mxGeometry x="800.0000000000001" y="817.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-26" value="回放模式控制器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="350.71" y="817.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-28" value="屏幕适配" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="639.1400000000001" y="817.5" width="120" height="60" as="geometry" />
