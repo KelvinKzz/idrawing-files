@@ -8,58 +8,58 @@
           <mxGeometry x="70.71" y="72.69" width="239.29" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-7" value="文件写入管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="790" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-8" value="录制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="345.29" y="72.69" width="564.71" height="60" as="geometry" />
+          <mxGeometry x="415.29" y="72.69" width="564.71" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-21" value="" style="group;fillColor=#dae8fc;strokeColor=none;container=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="345.29" y="160" width="260" height="130" as="geometry" />
+          <mxGeometry x="415.29" y="160" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-22" value="" style="group;fillColor=#dae8fc;strokeColor=none;container=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="345.29" y="320" width="260" height="130" as="geometry" />
+          <mxGeometry x="415.29" y="320" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-24" value="文件解析器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1160.71" y="1167.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-31" value="回放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="345.29" y="997.69" width="560" height="60" as="geometry" />
+          <mxGeometry x="415.29" y="997.69" width="560" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-33" value="下载管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="790" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-34" value="文件校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1286" y="1167.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-40" value="录制分发器" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="345.29" y="160" width="260" height="130" as="geometry" />
+          <mxGeometry x="415.29" y="160" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-41" value="窗口观察" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="354.5757142857143" y="190" width="111.42857142857144" height="40" as="geometry" />
+          <mxGeometry x="424.5757142857143" y="190" width="111.42857142857144" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-42" value="View录制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="484.5757142857143" y="240" width="111.42857142857144" height="40" as="geometry" />
+          <mxGeometry x="554.5757142857143" y="240" width="111.42857142857144" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-43" value="View刷新监听" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="484.5757142857143" y="190" width="111.42857142857144" height="40" as="geometry" />
+          <mxGeometry x="554.5757142857143" y="190" width="111.42857142857144" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-44" value="View变化监听" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="354.5757142857143" y="240" width="111.42857142857144" height="40" as="geometry" />
+          <mxGeometry x="424.5757142857143" y="240" width="111.42857142857144" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-55" value="事件录入系统" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="345.29" y="320" width="260" height="130" as="geometry" />
+          <mxGeometry x="415.29" y="320" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-56" value="事件分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="354.57571428571424" y="350" width="111.42857142857143" height="40" as="geometry" />
+          <mxGeometry x="424.57571428571424" y="350" width="111.42857142857143" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-57" value="窗口事件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="484.57571428571424" y="400" width="111.42857142857143" height="40" as="geometry" />
+          <mxGeometry x="554.5757142857142" y="400" width="111.42857142857143" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-58" value="事件过滤" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="484.57571428571424" y="350" width="111.42857142857143" height="40" as="geometry" />
+          <mxGeometry x="554.5757142857142" y="350" width="111.42857142857143" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-59" value="PopupWindow事件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="354.57571428571424" y="400" width="111.42857142857143" height="40" as="geometry" />
+          <mxGeometry x="424.57571428571424" y="400" width="111.42857142857143" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-62" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;&lt;font color=&quot;#1f2329&quot;&gt;初始化&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="60" y="160" width="250" height="470" as="geometry" />
@@ -125,40 +125,40 @@
           <mxGeometry x="1420" y="669.69" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-79" value="云真机指令分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="790" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-81" value="文件读取器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="790" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-88" value="回放管理" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="345.29" y="850" width="260" height="130" as="geometry" />
+          <mxGeometry x="415.29" y="850" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-29" value="窗口回放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="355.29" y="930" width="110" height="40" as="geometry" />
+          <mxGeometry x="425.29" y="930" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-30" value="事件回放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="484.29" y="880" width="110" height="40" as="geometry" />
+          <mxGeometry x="554.29" y="880" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-80" value="页面回放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="355.29" y="880" width="110" height="40" as="geometry" />
+          <mxGeometry x="425.29" y="880" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-82" value="特殊功能回放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="484.29" y="930" width="110" height="40" as="geometry" />
+          <mxGeometry x="554.29" y="930" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-89" value="播放控制" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="345.28999999999996" y="680" width="260" height="130" as="geometry" />
+          <mxGeometry x="415.28999999999996" y="680" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-27" value="进度控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="355.28999999999996" y="710" width="110" height="40" as="geometry" />
+          <mxGeometry x="425.28999999999996" y="710" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-36" value="数据分发" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="485.28999999999996" y="760" width="110" height="40" as="geometry" />
+          <mxGeometry x="555.29" y="760" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-83" value="倍速控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="485.28999999999996" y="710" width="110" height="40" as="geometry" />
+          <mxGeometry x="555.29" y="710" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-84" value="预加载" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="355.28999999999996" y="760" width="110" height="40" as="geometry" />
+          <mxGeometry x="425.28999999999996" y="760" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-50" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 14px; text-align: left;&quot;&gt;文件管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="1150" y="990" width="220" height="110" as="geometry" />
@@ -176,67 +176,67 @@
           <mxGeometry x="1157.857142857143" y="1057.6923076923076" width="94.28571428571429" height="33.84615384615384" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-92" value="加密" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="790" y="237" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="237" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-93" value="解密" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="790" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-94" value="混淆管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="790" y="313" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="313" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-95" value="diffPatch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="790" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-10" value="窗口过滤" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="634.9999999999998" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="704.9999999999998" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-9" value="窗口录制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="634.9999999999998" y="313" width="120" height="60" as="geometry" />
+          <mxGeometry x="704.9999999999998" y="313" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-11" value="组件遍历器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="634.9999999999998" y="237" width="120" height="60" as="geometry" />
+          <mxGeometry x="704.9999999999998" y="237" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-87" value="前后台控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="634.9999999999998" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="704.9999999999998" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-96" value="录制回放&lt;div&gt;View组件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="330" y="490" width="650" height="160" as="geometry" />
+          <mxGeometry x="400" y="490" width="650" height="160" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-17" value="卡片组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="635" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="705" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-18" value="tab组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="490" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-19" value="自定义录制回放组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="780" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="850" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-86" value="滚动组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="345.2899999999999" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="415.2899999999999" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-12" value="基础组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="345.29" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="415.29" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-13" value="文本组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="490" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-14" value="图片组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="635" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="705" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-16" value="进度组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="779.9999999999999" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="849.9999999999999" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-25" value="回放页面管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="635.0000000000001" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="705.0000000000001" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-26" value="回放模式控制器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="635.0000000000001" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="705.0000000000001" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-28" value="屏幕适配" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="635.0000000000001" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="705.0000000000001" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-35" value="错误拦截" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="635.0000000000001" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="705.0000000000001" y="920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
