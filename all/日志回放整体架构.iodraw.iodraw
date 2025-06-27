@@ -146,7 +146,7 @@
           <mxGeometry x="615.5799999999999" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-16" value="进度组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="750.5799999999999" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="779.9999999999999" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-17" value="卡片组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="620.1399999999999" y="580" width="120" height="60" as="geometry" />
