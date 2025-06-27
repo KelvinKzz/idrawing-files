@@ -154,28 +154,28 @@
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-96" value="录制回放&lt;div&gt;View组件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="280" y="477" width="650" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="UxzoOFNsm0TsBKT6pXCF-17" value="卡片组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="UxzoOFNsm0TsBKT6pXCF-17" value="卡片组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="635" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UxzoOFNsm0TsBKT6pXCF-18" value="tab组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="UxzoOFNsm0TsBKT6pXCF-18" value="tab组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="490" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-19" value="自定义录制回放组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="780" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UxzoOFNsm0TsBKT6pXCF-86" value="滚动组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="UxzoOFNsm0TsBKT6pXCF-86" value="滚动组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="345.2899999999999" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UxzoOFNsm0TsBKT6pXCF-12" value="基础组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="UxzoOFNsm0TsBKT6pXCF-12" value="基础组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="345.29" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UxzoOFNsm0TsBKT6pXCF-13" value="文本组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="UxzoOFNsm0TsBKT6pXCF-13" value="文本组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="490" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UxzoOFNsm0TsBKT6pXCF-14" value="图片组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="UxzoOFNsm0TsBKT6pXCF-14" value="图片组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="635" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UxzoOFNsm0TsBKT6pXCF-16" value="进度组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="UxzoOFNsm0TsBKT6pXCF-16" value="进度组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="779.9999999999999" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-25" value="回放页面管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
@@ -247,7 +247,7 @@
             <mxPoint x="220" y="558.1800000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UxzoOFNsm0TsBKT6pXCF-115" value="" style="group;fillColor=default;" vertex="1" connectable="0" parent="1">
+        <mxCell id="UxzoOFNsm0TsBKT6pXCF-115" value="" style="group;fillColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-118.87" y="591.5" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-64" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" connectable="0" parent="UxzoOFNsm0TsBKT6pXCF-115">
