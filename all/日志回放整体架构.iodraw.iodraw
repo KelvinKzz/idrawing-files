@@ -193,7 +193,7 @@
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-73" value="回放任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="960" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UxzoOFNsm0TsBKT6pXCF-74" value="回放任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="UxzoOFNsm0TsBKT6pXCF-74" value="解析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="960" y="305" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
