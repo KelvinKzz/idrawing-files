@@ -110,7 +110,7 @@
           <mxGeometry x="1270" y="492.69" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-74" value="解析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="492.69" width="120" height="60" as="geometry" />
+          <mxGeometry x="1362.1399999999999" y="572.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-75" value="云真机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1430" y="492.69" width="120" height="60" as="geometry" />
@@ -239,7 +239,7 @@
           <mxGeometry x="695.0000000000001" y="945" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-97" value="Mdap日志回放管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1634" y="492.69" width="120" height="60" as="geometry" />
+          <mxGeometry x="1117.8600000000001" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
