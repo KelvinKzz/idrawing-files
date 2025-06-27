@@ -239,7 +239,7 @@
           <mxGeometry x="695.0000000000001" y="945" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-97" value="Mdap日志回放管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1170.0000000000002" y="534.41" width="120" height="60" as="geometry" />
+          <mxGeometry x="1170.0000000000002" y="474" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
