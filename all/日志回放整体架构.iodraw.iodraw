@@ -8,19 +8,19 @@
           <mxGeometry x="70" y="120" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-7" value="文件写入管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="650" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="610.71" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-8" value="组件录制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="370" y="640" width="400" height="60" as="geometry" />
+          <mxGeometry x="325.71" y="120" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-9" value="窗口录制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="650" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="610.71" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-10" value="窗口过滤" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="650" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="610.71" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-11" value="组件遍历器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="650" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="610.71" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-12" value="基础组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="70.71" y="730" width="120" height="60" as="geometry" />
@@ -50,10 +50,10 @@
           <mxGeometry x="30" y="830" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-21" value="" style="group;fillColor=#dae8fc;strokeColor=none;container=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="370" y="350" width="260" height="130" as="geometry" />
+          <mxGeometry x="330.71" y="210" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-22" value="" style="group;fillColor=#dae8fc;strokeColor=none;container=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="370" y="487.5" width="260" height="130" as="geometry" />
+          <mxGeometry x="330.71" y="347.5" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-23" value="回放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1450" y="280" width="100" height="60" as="geometry" />
@@ -98,34 +98,34 @@
           <mxGeometry x="1290" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-40" value="录制分发器" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="370" y="350" width="260" height="130" as="geometry" />
+          <mxGeometry x="330.71" y="210" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-41" value="窗口观察" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="379.2857142857143" y="380" width="111.42857142857144" height="40" as="geometry" />
+          <mxGeometry x="339.99571428571426" y="240" width="111.42857142857144" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-42" value="View录制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="509.2857142857143" y="430" width="111.42857142857144" height="40" as="geometry" />
+          <mxGeometry x="469.99571428571426" y="290" width="111.42857142857144" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-43" value="View刷新监听" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="509.2857142857143" y="380" width="111.42857142857144" height="40" as="geometry" />
+          <mxGeometry x="469.99571428571426" y="240" width="111.42857142857144" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-44" value="View变化监听" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="379.2857142857143" y="430" width="111.42857142857144" height="40" as="geometry" />
+          <mxGeometry x="339.99571428571426" y="290" width="111.42857142857144" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-55" value="事件录入系统" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="370" y="487.5" width="260" height="130" as="geometry" />
+          <mxGeometry x="330.71" y="347.5" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-56" value="事件分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="379.2857142857143" y="517.5" width="111.42857142857143" height="40" as="geometry" />
+          <mxGeometry x="339.99571428571426" y="377.5" width="111.42857142857143" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-57" value="窗口事件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="509.2857142857143" y="567.5" width="111.42857142857143" height="40" as="geometry" />
+          <mxGeometry x="469.99571428571426" y="427.5" width="111.42857142857143" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-58" value="事件过滤" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="509.2857142857143" y="517.5" width="111.42857142857143" height="40" as="geometry" />
+          <mxGeometry x="469.99571428571426" y="377.5" width="111.42857142857143" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-59" value="PopupWindow事件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="379.2857142857143" y="567.5" width="111.42857142857143" height="40" as="geometry" />
+          <mxGeometry x="339.99571428571426" y="427.5" width="111.42857142857143" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-62" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;&lt;font color=&quot;#1f2329&quot;&gt;初始化&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="60" y="210" width="250" height="470" as="geometry" />
