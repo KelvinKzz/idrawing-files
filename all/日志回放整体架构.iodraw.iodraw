@@ -64,7 +64,7 @@
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-4" value="日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-118.87000000000002" y="425" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UxzoOFNsm0TsBKT6pXCF-64" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="UxzoOFNsm0TsBKT6pXCF-64" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-118.87" y="591.5" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-66" value="" style="group" vertex="1" connectable="0" parent="UxzoOFNsm0TsBKT6pXCF-64">
