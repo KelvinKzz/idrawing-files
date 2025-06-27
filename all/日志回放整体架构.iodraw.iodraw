@@ -89,7 +89,7 @@
           <mxGeometry x="7.776785714285714" y="67.6923076923077" width="93.32142857142856" height="33.84615384615385" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-68" value="Mdap日志回捞" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="110" width="390" height="200" as="geometry" />
+          <mxGeometry x="1170" y="150" width="390" height="200" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-69" value="离线日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1350" y="192" width="180" height="40" as="geometry" />
