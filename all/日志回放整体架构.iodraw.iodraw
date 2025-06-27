@@ -250,23 +250,20 @@
             <mxPoint x="220" y="558.1800000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UxzoOFNsm0TsBKT6pXCF-66" value="" style="group;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" connectable="0" parent="1">
+        <mxCell id="UxzoOFNsm0TsBKT6pXCF-45" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 14px; text-align: left;&quot;&gt;自定义配置&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-118.87" y="591.5" width="219.99999999999997" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="UxzoOFNsm0TsBKT6pXCF-45" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 14px; text-align: left;&quot;&gt;自定义配置&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="UxzoOFNsm0TsBKT6pXCF-66">
-          <mxGeometry width="219.99999999999997" height="110" as="geometry" />
+        <mxCell id="UxzoOFNsm0TsBKT6pXCF-46" value="注册半屏页面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-111.01285714285714" y="616.8846153846154" width="94.28571428571426" height="33.84615384615385" as="geometry" />
         </mxCell>
-        <mxCell id="UxzoOFNsm0TsBKT6pXCF-46" value="注册半屏页面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UxzoOFNsm0TsBKT6pXCF-66">
-          <mxGeometry x="7.857142857142857" y="25.384615384615383" width="94.28571428571426" height="33.84615384615385" as="geometry" />
+        <mxCell id="UxzoOFNsm0TsBKT6pXCF-47" value="自定义组件录制与回放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1.0128571428571433" y="659.1923076923077" width="94.28571428571426" height="33.84615384615385" as="geometry" />
         </mxCell>
-        <mxCell id="UxzoOFNsm0TsBKT6pXCF-47" value="自定义组件录制与回放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UxzoOFNsm0TsBKT6pXCF-66">
-          <mxGeometry x="117.85714285714286" y="67.6923076923077" width="94.28571428571426" height="33.84615384615385" as="geometry" />
+        <mxCell id="UxzoOFNsm0TsBKT6pXCF-48" value="自定义View生成器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1.0128571428571433" y="616.8846153846154" width="94.28571428571426" height="33.84615384615385" as="geometry" />
         </mxCell>
-        <mxCell id="UxzoOFNsm0TsBKT6pXCF-48" value="自定义View生成器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UxzoOFNsm0TsBKT6pXCF-66">
-          <mxGeometry x="117.85714285714286" y="25.384615384615383" width="94.28571428571426" height="33.84615384615385" as="geometry" />
-        </mxCell>
-        <mxCell id="UxzoOFNsm0TsBKT6pXCF-49" value="自定义占位组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UxzoOFNsm0TsBKT6pXCF-66">
-          <mxGeometry x="7.857142857142857" y="67.6923076923077" width="94.28571428571426" height="33.84615384615385" as="geometry" />
+        <mxCell id="UxzoOFNsm0TsBKT6pXCF-49" value="自定义占位组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-111.01285714285714" y="659.1923076923077" width="94.28571428571426" height="33.84615384615385" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
