@@ -4,17 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UxzoOFNsm0TsBKT6pXCF-1" value="配置管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="70" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-2" value="SDK启动管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="70" y="120" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UxzoOFNsm0TsBKT6pXCF-3" value="监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="210" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UxzoOFNsm0TsBKT6pXCF-4" value="日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="70" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-7" value="文件写入管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="440" y="1040" width="120" height="60" as="geometry" />
@@ -174,6 +165,15 @@
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-54" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 14px; text-align: left;&quot;&gt;zip工具&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="UxzoOFNsm0TsBKT6pXCF-63">
           <mxGeometry x="10" y="80" width="120.00000000000001" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UxzoOFNsm0TsBKT6pXCF-1" value="配置管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="70" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UxzoOFNsm0TsBKT6pXCF-3" value="监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="210" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UxzoOFNsm0TsBKT6pXCF-4" value="日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="70" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
