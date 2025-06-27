@@ -62,7 +62,7 @@
           <mxGeometry x="40.70999999999998" y="244" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-3" value="监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="40.710000000000036" y="413" width="220" height="60" as="geometry" />
+          <mxGeometry x="46.13000000000004" y="461" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-4" value="日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="40.70999999999998" y="329" width="220" height="60" as="geometry" />
