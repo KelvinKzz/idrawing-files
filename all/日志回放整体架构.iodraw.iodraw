@@ -32,7 +32,7 @@
           <mxGeometry x="1330" y="540" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-24" value="文件解析器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="615.71" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-25" value="回放页面管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="475.71" y="600" width="120" height="60" as="geometry" />
