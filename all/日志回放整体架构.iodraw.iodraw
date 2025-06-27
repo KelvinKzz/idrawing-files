@@ -118,15 +118,6 @@
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-75" value="云真机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1400" y="823.75" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UxzoOFNsm0TsBKT6pXCF-76" value="云真机回放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1169" y="657.75" width="180" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UxzoOFNsm0TsBKT6pXCF-77" value="逐帧回放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1169" y="743.75" width="180" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UxzoOFNsm0TsBKT6pXCF-78" value="扫码回放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1169" y="823.75" width="180" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-79" value="云真机指令分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="850" y="705" width="120" height="60" as="geometry" />
         </mxCell>
@@ -243,6 +234,15 @@
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-97" value="Mdap日志回放管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1430.0000000000002" y="585.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UxzoOFNsm0TsBKT6pXCF-76" value="云真机回放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1169" y="657.75" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UxzoOFNsm0TsBKT6pXCF-77" value="逐帧回放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1169" y="741" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UxzoOFNsm0TsBKT6pXCF-78" value="扫码回放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1169" y="823.75" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
