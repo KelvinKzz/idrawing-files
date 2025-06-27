@@ -131,22 +131,22 @@
           <mxGeometry x="60" y="210" width="280" height="440" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-63" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="210" y="320" width="150.77" height="70" as="geometry" />
+          <mxGeometry x="70" y="520" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-50" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 14px; text-align: left;&quot;&gt;文件管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="UxzoOFNsm0TsBKT6pXCF-63">
-          <mxGeometry width="150.77" height="70" as="geometry" />
+          <mxGeometry width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-51" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 14px; text-align: left;&quot;&gt;路径管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="UxzoOFNsm0TsBKT6pXCF-63">
-          <mxGeometry x="5.3846428571428575" y="16.153846153846153" width="64.61571428571429" height="21.538461538461537" as="geometry" />
+          <mxGeometry x="9.285714285714286" y="27.69230769230769" width="111.42857142857143" height="36.92307692307692" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-52" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 14px; text-align: left;&quot;&gt;定时清理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="UxzoOFNsm0TsBKT6pXCF-63">
-          <mxGeometry x="80.76964285714286" y="43.07692307692307" width="64.61571428571429" height="21.538461538461537" as="geometry" />
+          <mxGeometry x="139.28571428571428" y="73.84615384615384" width="111.42857142857143" height="36.92307692307692" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-53" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 14px; text-align: left;&quot;&gt;上传器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="UxzoOFNsm0TsBKT6pXCF-63">
-          <mxGeometry x="80.76964285714286" y="16.153846153846153" width="64.61571428571429" height="21.538461538461537" as="geometry" />
+          <mxGeometry x="139.28571428571428" y="27.69230769230769" width="111.42857142857143" height="36.92307692307692" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-54" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-size: 14px; text-align: left;&quot;&gt;zip工具&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="UxzoOFNsm0TsBKT6pXCF-63">
-          <mxGeometry x="5.3846428571428575" y="43.07692307692307" width="64.61571428571429" height="21.538461538461537" as="geometry" />
+          <mxGeometry x="9.285714285714286" y="73.84615384615384" width="111.42857142857143" height="36.92307692307692" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-1" value="配置管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="70.70999999999998" y="245" width="120" height="60" as="geometry" />
