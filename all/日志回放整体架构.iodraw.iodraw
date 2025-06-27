@@ -212,19 +212,19 @@
           <mxGeometry x="778.43" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-88" value="事件录入系统" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="959.29" y="870" width="260" height="130" as="geometry" />
+          <mxGeometry x="804.7099999999999" y="760" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-29" value="窗口回放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="980.0000000000001" y="960" width="110" height="40" as="geometry" />
+          <mxGeometry x="825.4200000000001" y="850" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-30" value="事件回放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="910" width="110" height="40" as="geometry" />
+          <mxGeometry x="945.42" y="800" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-80" value="页面回放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="980.0000000000001" y="910" width="110" height="40" as="geometry" />
+          <mxGeometry x="825.4200000000001" y="800" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-82" value="特殊功能回放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="799.1400000000001" y="897.5" width="110" height="40" as="geometry" />
+          <mxGeometry x="945.42" y="850" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
