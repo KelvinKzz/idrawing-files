@@ -218,13 +218,13 @@
           <mxGeometry x="1169" y="457" width="390" height="200" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-101" value="解析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1349" y="509" width="180" height="40" as="geometry" />
+          <mxGeometry x="1349" y="537" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-102" value="回放任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1349" y="449" width="180" height="40" as="geometry" />
+          <mxGeometry x="1349" y="477" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-103" value="云真机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1349" y="569" width="180" height="40" as="geometry" />
+          <mxGeometry x="1349" y="597" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-108" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1170" y="773.75" width="390" height="200" as="geometry" />
