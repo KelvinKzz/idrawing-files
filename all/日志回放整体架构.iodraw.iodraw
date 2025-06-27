@@ -242,7 +242,7 @@
           <mxGeometry x="1349" y="409" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-103" value="云真机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1349" y="569" width="180" height="40" as="geometry" />
+          <mxGeometry x="1349" y="529" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
