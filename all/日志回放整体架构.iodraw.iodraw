@@ -238,8 +238,8 @@
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-35" value="错误拦截" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="695.0000000000001" y="945" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UxzoOFNsm0TsBKT6pXCF-97" value="Mdap日志回捞" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="269" width="120" height="60" as="geometry" />
+        <mxCell id="UxzoOFNsm0TsBKT6pXCF-97" value="Mdap日志回放管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1634" y="492.69" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
