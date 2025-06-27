@@ -155,7 +155,7 @@
           <mxGeometry x="485.99999999999994" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-19" value="自定义录制回放组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="755.29" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="780" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-79" value="云真机指令分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="780" y="680" width="120" height="60" as="geometry" />
@@ -236,7 +236,7 @@
           <mxGeometry x="644.1399999999998" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-96" value="录制回放&lt;div&gt;View组件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="500" width="120" height="140" as="geometry" />
+          <mxGeometry x="970" y="500" width="70" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
