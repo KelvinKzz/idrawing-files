@@ -8,19 +8,19 @@
           <mxGeometry x="70" y="120" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-7" value="文件写入管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="760" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="780" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-8" value="组件录制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="325.71" y="120" width="264.29" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-9" value="窗口录制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="610" y="297.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="137.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-10" value="窗口过滤" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="610" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-11" value="组件遍历器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="760" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="780" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-21" value="" style="group;fillColor=#dae8fc;strokeColor=none;container=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="330.71" y="220" width="260" height="130" as="geometry" />
