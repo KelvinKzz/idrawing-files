@@ -41,7 +41,7 @@
           <mxGeometry x="635.2900000000002" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-31" value="回放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="329.99999999999994" y="1020" width="400" height="60" as="geometry" />
+          <mxGeometry x="330" y="1020" width="560" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-33" value="下载管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="780" y="840" width="120" height="60" as="geometry" />
