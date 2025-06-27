@@ -151,7 +151,7 @@
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-87" value="前后台控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="634.9999999999998" y="359" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UxzoOFNsm0TsBKT6pXCF-96" value="录制回放&lt;div&gt;View组件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="UxzoOFNsm0TsBKT6pXCF-96" value="录制回放&lt;div&gt;View组件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="477" width="650" height="180" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-17" value="卡片组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
@@ -160,7 +160,7 @@
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-18" value="tab组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="490" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UxzoOFNsm0TsBKT6pXCF-19" value="自定义录制回放组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="UxzoOFNsm0TsBKT6pXCF-19" value="自定义录制回放组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="780" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-86" value="滚动组件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
