@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UxzoOFNsm0TsBKT6pXCF-98" value="回放模式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1154" y="554.25" width="210" height="344.75" as="geometry" />
+        </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-8" value="录制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="110" width="660" height="330" as="geometry" />
         </mxCell>
@@ -240,9 +243,6 @@
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-97" value="Mdap日志回放管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1430.0000000000002" y="585.25" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UxzoOFNsm0TsBKT6pXCF-98" value="回放模式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="585.25" width="210" height="344.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
