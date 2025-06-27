@@ -128,7 +128,7 @@
           <mxGeometry x="169.28571428571428" y="1047.5" width="111.42857142857143" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-62" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;&lt;font color=&quot;#1f2329&quot;&gt;初始化&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="60" y="210" width="280" height="340" as="geometry" />
+          <mxGeometry x="60" y="210" width="280" height="440" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-63" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="210" y="320" width="150.77" height="70" as="geometry" />
