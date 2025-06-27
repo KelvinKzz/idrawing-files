@@ -245,7 +245,7 @@
           <mxGeometry x="1349" y="529" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-106" value="&lt;span style=&quot;text-align: center;&quot;&gt;Mdap日志回放管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1179" y="400" width="390" height="200" as="geometry" />
+          <mxGeometry x="1170" y="773.75" width="390" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
