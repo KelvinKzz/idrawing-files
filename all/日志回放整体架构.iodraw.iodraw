@@ -14,10 +14,10 @@
           <mxGeometry x="325.71" y="120" width="264.29" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-9" value="窗口录制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="610.71" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="465.71000000000004" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-10" value="窗口过滤" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="610.71" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="331.42" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxzoOFNsm0TsBKT6pXCF-11" value="组件遍历器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="610.71" y="350" width="120" height="60" as="geometry" />
